@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personas/Punzadas sonoras.md",
+                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personas/Punzadas sonoras.md",
+                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personas/Punzadas sonoras.md",
+                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personas/Punzadas sonoras.md"
+                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md"
               }
             }
           }
@@ -174,16 +174,16 @@
   },
   "active": "4e69c37f3fb9f2dc",
   "lastOpenFiles": [
-    "2026/Concepto.md",
-    "Notas/Programa \"La fatiga” de Punzadas sonoras.md",
-    "Notas/Programa \"Caminar\" en Derroteros.md",
+    "Notas/Conferencia de David Fernández el 10_06_24.md",
+    "Notas/Filosofía de la procrastinación.md",
+    "Notas/Hacia una ética de la generosidad.md",
+    "Notas/Marx Juega.md",
+    "Notas/Programa Caminar en Derroteros.md",
+    "Notas/Programa La fatiga de Punzadas sonoras.md",
     "Personas/Punzadas sonoras.md",
+    "2026/Concepto.md",
     "Personas/Ernesto Castro.md",
     "Personas/David Fernández.md",
-    "Notas/Marx Juega.md",
-    "Notas/Hacia una ética de la generosidad.md",
-    "Notas/Filosofía de la procrastinación.md",
-    "Notas/Conferencia de David Fernández el 10_06_24.md",
     "Notas/¿Las inteligencias artificiales tienen derechos?.md",
     "index.md"
   ]

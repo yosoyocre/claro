@@ -114,7 +114,7 @@ Relación Trabajo y Masculinidad
 
 ---
 
-![[Programa "Caminar" en Derroteros]]
+![[Programa Caminar en Derroteros]]
 
 Canción sobre la culpa que siento cuando no trabajo, el dolor que me produce
 
@@ -122,4 +122,4 @@ Canción sobre la culpa que siento cuando no trabajo, el dolor que me produce
 
 ![[Marx Juega]]
 
-![[Programa "La fatiga” de Punzadas sonoras]]
+![[Programa La fatiga de Punzadas sonoras]]
