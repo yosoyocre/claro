@@ -156,6 +156,3 @@ C A7 D7 G7 C (La rueda de Vs)
 cambia a   
 C Eb7 Ab7 Db7 C  
 [https://youtu.be/dSvO5Tb18tI?si=oQ9hchUm-Bq10ksl](https://youtu.be/dSvO5Tb18tI?si=oQ9hchUm-Bq10ksl) desde el minuto 16:36
-
-[[Diseño]]
-
