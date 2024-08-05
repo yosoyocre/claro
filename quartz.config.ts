@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "es-ES",
     baseUrl: "yosoyocre.github.io/cerebro_bien",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Plantillas"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
