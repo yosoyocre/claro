@@ -1,11 +1,8 @@
-[[Concepto]]
+---
+title: Índice
+draft: false
+tags:
+---
+Actualmente estoy trabajando en la obra que saldrá en 2026.
 
-[[Letras]]
-
-[[Producción]]
-
-[[Música]]
-
-[[Vídeo]]
-
-[[Videojuego]]
+Este es el [[Índice]] de los contenidos
