@@ -1,3 +1,9 @@
+---
+title: "Videojuego"
+draft: false
+tags:
+  -
+---
 **Ideas**
 
 Combinar el concepto de lo infinito y el trabajo  

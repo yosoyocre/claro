@@ -1,3 +1,9 @@
+---
+title: "Producción"
+draft: false
+tags:
+  -
+---
 Usar mesas y efectos con la técnica no-input como generador de sonidos y usar un móvil como DAW. Limitación y roce para reflejar el día a día laboral y que eso se plasme en la música. O con la tablet, usando el software de controladora custom
 
 Procesar sonidos a través de un **ordenador demasiado saturado**, haciendo demasiadas cosas como para poder reproducirlos sin problemas. Por ejemplo, reproducir un sonido mientras se ejecuta un algoritmo mal programado, que utilice demasiados recursos o infinito. Una máquina llevada al límite como un ser humano cuando trabaja como una máquina. Aquí también puede encajar la idea de no querer la optimización. **La optimización no existe**, eventualmente la máquina rompe, se desintegra,muere.

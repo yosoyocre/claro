@@ -1,3 +1,9 @@
+---
+title: "Diseño"
+draft: false
+tags:
+  -
+---
 Para el diseño: Enso  
 [https://es.wikipedia.org/wiki/Ens%C5%8D](https://es.wikipedia.org/wiki/Ens%C5%8D)  
 El término ensō (円相) es una palabra japonesa que significa círculo y que está fuertemente relacionada con el zen. Se trata de uno de los temas más típicos de la caligrafía japonesa, a pesar de que el círculo es un símbolo y no un carácter. Simboliza la iluminación, la fuerza, la elegancia, el universo y el **vacío** (mu),  

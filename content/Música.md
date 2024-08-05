@@ -1,3 +1,9 @@
+---
+title: "Música"
+draft: false
+tags:
+  -
+---
 Utilizar estos conceptos de operaciones sobre acordes para la composición  
 [https://www.youtube.com/watch?v=wEMbPfi7MgQ](https://www.youtube.com/watch?v=wEMbPfi7MgQ)
 
