@@ -11,6 +11,8 @@ tags:
 
 [[Música]]
 
+[[Diseño]]
+
 [[Vídeo]]
 
 [[Videojuego]]
