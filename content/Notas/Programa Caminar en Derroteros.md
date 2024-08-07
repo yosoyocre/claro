@@ -5,8 +5,8 @@ tags:
   - podcast
   - autora:PunzadasSonoras
 ---
-Podcast  
-[https://open.spotify.com/episode/7oiX6F0r9A6l9Pdu7GjysF?si=GxEU40frRQ2BjiM0H0DXrw](https://open.spotify.com/episode/7oiX6F0r9A6l9Pdu7GjysF?si=GxEU40frRQ2BjiM0H0DXrw)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7oiX6F0r9A6l9Pdu7GjysF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 #todo “Una guía sobre el arte de perderse” Rebeca Solnit  
 #todo “Wanderlust” Rebeca Solnit
 

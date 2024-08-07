@@ -5,8 +5,7 @@ tags:
   - vídeo
   - autora/ErnestoCastro
 ---
-Vídeo  
-[https://www.youtube.com/watch?v=0_8hsdF_Vd8](https://www.youtube.com/watch?v=0_8hsdF_Vd8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_8hsdF_Vd8?si=TRyBtw7_PBrL85DN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 “Sísifo de silicio”
 

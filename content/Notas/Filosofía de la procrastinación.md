@@ -5,8 +5,7 @@ tags:
   - vídeo
   - autora/ErnestoCastro
 ---
-Vídeo  
-https://www.youtube.com/watch?v=sXvmA5vWIHc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXvmA5vWIHc?si=mhKRSoVfWcNubGVm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Un vago es aquel que no hace el trabajo pero no siente culpa por ello  
 Un procrastinador es aquel que sí siente culpa. Pero un procrastinador puede hacer muchas cosas siempre que no estén en la parte superior de su lista de prioridades
