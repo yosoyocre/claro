@@ -146,6 +146,7 @@ CMaj7 | EbMaj7 | CMaj7 | A7 x 2 en 4/4
 Ab | Fm | C x 2 en 6/8
 
 Ejemplo de esto 
+
 ![[Melodías con mediantes.m4a]]
 
 Avanzando esta idea
