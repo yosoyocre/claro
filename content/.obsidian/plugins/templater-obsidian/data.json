@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "1 - Discos",
+      "template": "Plantillas/nota.md"
+    },
+    {
+      "folder": "2 - Temas",
+      "template": "Plantillas/nota.md"
+    },
+    {
+      "folder": "3 - Notas",
+      "template": "Plantillas/nota.md"
     }
   ],
   "syntax_highlighting": true,
