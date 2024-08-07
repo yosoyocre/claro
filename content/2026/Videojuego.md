@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-**Ideas**
+## Ideas
 
 Combinar el concepto de lo infinito y el trabajo  
 El trabajo infinito, repetitivo, recurrente
@@ -16,7 +16,7 @@ Aquí el concepto de loop de batería siempre igual puede ser interesante.
 Otra idea podría ser un first person shooter al estilo Doom pero solo llevas un cuchillo y tienes que hacer ciertas tareas con él, como abrazar a alguien, acariciar un bebé, etc  
 [https://www.youtube.com/watch?v=jzbgH4AMtI8](https://www.youtube.com/watch?v=jzbgH4AMtI8)
 
-**Conceptos**
+## Conceptos
 
 “Staring into the Sun” por Jacob Geller  
 [https://www.youtube.com/watch?v=WSbUPaLTTUg](https://www.youtube.com/watch?v=WSbUPaLTTUg)
@@ -45,7 +45,7 @@ Roman Opalka
 Permanencia como una mecánica de juego  
 [https://youtu.be/gPHdypbzUU8?t=516](https://youtu.be/gPHdypbzUU8?t=516)
 
-**Estética**
+## Estética
 
 The return of the Obra Dinn  
 [https://www.youtube.com/watch?v=ILolesm8kFY](https://www.youtube.com/watch?v=ILolesm8kFY)

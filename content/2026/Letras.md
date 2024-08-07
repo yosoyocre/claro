@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-**Espacios de deseo**
+## Espacios de deseo
 
 Ser testigo y resistir  
 Propósito sin propósito  
@@ -19,7 +19,8 @@ Se hace deseo al desear
 Un espacio utópico  
 Lugar (Tensión) entre lo que es y lo que puede ser
 
-**La culpa**  
+## La culpa
+
 ¿Qué es esto que estoy sintiendo  
 ahora que no hay nada que hacer?  
 No es descanso, (Es extraño)  
