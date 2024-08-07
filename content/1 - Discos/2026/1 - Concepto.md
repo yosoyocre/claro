@@ -47,10 +47,10 @@ Esa “persona” podría ser “el sistema”, “el capital”, o incluso “e
 Sara Dominguín dice: "un molino, la vida nos tritura con dolor"
 
 ---
-Decadentismo del libro "El león de comarre /a la caída de la noche". #todo Leer los 2 relatos
+Decadentismo del libro "El león de comarre /a la caída de la noche".  Leer los 2 relatos #todo
 
 ---
-#todo Leer Un Mundo Feliz
+Leer Un Mundo Feliz #todo
 
 ---
 Sitting and smiling de Benjamin Bennett, sobre todo el vídeo en el que entrar a robar y el ladrón queda acojonado y no le roba  
@@ -74,7 +74,7 @@ La vida es broma
 Es bromazepam
 
 ---
-#todo Hacer como Artur M Puga y pasarle texto a un traductor español-inglés, el resultado a otro de inglés-japonés y su resultado al de japonés-español para que genere imágenes poéticas, como un _lost in translation_ dirigido.
+Hacer como Artur M Puga y pasarle texto a un traductor español-inglés, el resultado a otro de inglés-japonés y su resultado al de japonés-español para que genere imágenes poéticas, como un _lost in translation_ dirigido. #todo 
 
 ---
 ### La navajilla de Ockham

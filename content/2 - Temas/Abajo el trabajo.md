@@ -28,7 +28,7 @@ Que en una canción se mencione todos los empleos, o sus elementos, que pueden d
 ![[Filosofía de la procrastinación]]
 
 ---
-#todo Hacer una canción que se vea claramente inacabada, en la que se muestre el conflicto del procrastinador, del ácrata. De ver la obra inacabada como acabada. El proceso es el objetivo, no la obra que se genera. Mostrar el sufrimiento presente del momento en el que se hizo la obra. Ruinas de un presente pasado. Contar la historia a través de los fracasos en lugar de a través de los éxitos
+Hacer una canción que se vea claramente inacabada, en la que se muestre el conflicto del procrastinador, del ácrata. De ver la obra inacabada como acabada. El proceso es el objetivo, no la obra que se genera. Mostrar el sufrimiento presente del momento en el que se hizo la obra. Ruinas de un presente pasado. Contar la historia a través de los fracasos en lugar de a través de los éxitos #todo 
 
 ---
 
