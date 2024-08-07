@@ -1,5 +1,5 @@
 ---
-title: Inteligencia artificial
+title: Ética artificial
 draft: false
 tags:
 ---
