@@ -38,7 +38,7 @@ Que en una canción se mencione todos los empleos, o sus elementos, que pueden d
 “Si te deslomas más de 360 días al año en trabajos duros ¿se cronifica alguna clase de **herida repetitiva del espíritu**?”
 
 ---
-### Trabajo muerto
+## Trabajo muerto
 “Trabajo muerto”: “un producto es solo el resultado de trabajo pasado”  
 Como si fuese un fósil de trabajo pasado, de tiempo invertido pasado
 
@@ -49,7 +49,7 @@ Relación Trabajo y Masculinidad
 Canción sobre la culpa que siento cuando no trabajo, el dolor que me produce
 
 ---
-### Cantanoches
+## Cantanoches
 Cantamañanas vs. Cantanoches  
 No soy un cantamañanas porque es demasiado pronto
 
