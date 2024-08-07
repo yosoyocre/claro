@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md",
+                "file": "2026/Producción.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md",
+                "file": "2026/Producción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md",
+                "file": "2026/Producción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/¿Las inteligencias artificiales tienen derechos?.md"
+                "file": "2026/Producción.md"
               }
             }
           }
@@ -174,17 +174,25 @@
   },
   "active": "4e69c37f3fb9f2dc",
   "lastOpenFiles": [
-    "Notas/Conferencia de David Fernández el 10_06_24.md",
+    "2026/Videojuego.md",
+    "2026/Vídeo.md",
+    "2026/Producción.md",
+    "2026/Música.md",
+    "2026/Letras.md",
+    "2026/Índice.md",
+    "2026/Diseño.md",
+    "2026/Concepto.md",
+    "Personas/Ernesto Castro.md",
     "Notas/Filosofía de la procrastinación.md",
+    "Temas/Abajo el trabajo.md",
+    "Notas/¿Las inteligencias artificiales tienen derechos?.md",
+    "Notas/Conferencia de David Fernández el 10_06_24.md",
     "Notas/Hacia una ética de la generosidad.md",
     "Notas/Marx Juega.md",
     "Notas/Programa Caminar en Derroteros.md",
     "Notas/Programa La fatiga de Punzadas sonoras.md",
     "Personas/Punzadas sonoras.md",
-    "2026/Concepto.md",
-    "Personas/Ernesto Castro.md",
     "Personas/David Fernández.md",
-    "Notas/¿Las inteligencias artificiales tienen derechos?.md",
     "index.md"
   ]
 }

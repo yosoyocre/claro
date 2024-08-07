@@ -86,3 +86,5 @@ Usar estas técnicas para convertir el ruido que haga con la mesa de sonido en d
 Usar un sample de esta canción de David Bellas  
 [https://www.youtube.com/watch?v=WutFOmcyo8Q](https://www.youtube.com/watch?v=WutFOmcyo8Q)
 
+Usar estas técnicas con el Vocoder para generar sonidos de plástico, látex y goma  
+https://www.youtube.com/watch?v=ws8yLOIkLms&t=495s
