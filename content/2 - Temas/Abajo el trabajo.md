@@ -17,13 +17,34 @@ Que en una canción se mencione todos los empleos, o sus elementos, que pueden d
 
 ---
 ## Derroche improductivo
-![[Cita Derroche Improductivo.jpg]]
+
+> [...] hay algunos que dicen que el derroche improductivo es importante.
+> 
+> lllouz cita al filósofo Georges Bataille, que señala que el derroche resulta decisivo para el buen funcionamiento de la sociedad. Cosas que, desde un punto de vista racional y sensato, son totalmente inútiles para una sociedad: rituales, lujo, juego y monumentos grandiosos. Es el derroche lo que da sentido a esas actividades y es el sacrificio que crea lo sagrado.
+> 
+[[Cita Derroche Improductivo.jpg|Ver cita]]
 
 ## Disforia laboral
-![[Cita Disforia.jpg]]
+
+> La palabra *dysphoria* surge de la hibridación del prefijo griego *dys*, que retira, niega o indica dificultad, y el adjetivo *phoros*, derivado del verbo *pherein*, llevar, acarrear, soportar, trasladar -encontramos el mismo verbo en la palabra *metáfora*-.  
+>   
+> [...]  
+>   
+> Por analogía, para la psiquiatría, la disforia indica un trastorno del ánimo que hace que la vida cotidiana se vuelva inllevable.
+
+[[Cita Disforia.jpg|Ver cita]]
 
 ## El sabio, el mercader y el guerrero
-![[Cita sabio mercader guerrero.jpg]]
+
+> El **sabio** es aquel que sabe, aquel que produce saber y lo pone en circulación en el proceso productivo global de nuestro tiempo, el trabajador cognitivo que intercambia su trabajo de conocimiento con el salario, y finalmente reconoce lo intolerable que es el uso que el mercader y el guerrero hacen de su saber, y la miseria de su propia vida. Pero el sabio también es el que sabe estar fuera del tiempo límite: sabe que las tendencias actuales creadas por la simbiosis con el mercader y el guerrero son imparables. Sin embargo, el sabio también es algo más: es quien sabe que «el no-saber juzga al saber» (como dice Bataille en *La experiencia interior*).
+> 
+> El **no-saber** es lo imprevisto, lo que aún no sabemos, lo que podría transformar el universo del saber según la perspectiva de un paradigma ya no subordinado a la acumulación y a la guerra
+>   
+>   [...]  
+> 
+> ...el sabio es el amigo. Y **la amistad tiene algo que ver con el caos**
+
+[[Cita sabio mercader guerrero.jpg|Ver cita]]
 
 ![[Filosofía de la procrastinación]]
 

@@ -6,7 +6,7 @@ tags:
 ![[¿Las inteligencias artificiales tienen derechos?]]
 
 ---
-"Hay mucho interés académico en la robótica pero apenas en la lavadora"
+> Hay mucho interés académico en la robótica pero apenas en la lavadora
 
 [[Cita Pikara Magazine.jpg|Ver cita]]
 
