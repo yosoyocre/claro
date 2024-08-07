@@ -3,6 +3,7 @@ title: Conferencia de David Fernández en Alexandre Bóveda el 10/06/24
 draft: false
 tags:
   - "#conferencia"
+  - "#autora/DavidFernandez"
 ---
 Ante la subida de un 5000% de los precios de un medicamento, el propietario de la farmacéutica dijo "Es el capitalismo y es legal"
 

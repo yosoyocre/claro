@@ -3,6 +3,7 @@ title: Programa "Caminar" de Punzadas Sonoras en Derroteros
 draft: false
 tags:
   - podcast
+  - autora:PunzadasSonoras
 ---
 Podcast  
 [https://open.spotify.com/episode/7oiX6F0r9A6l9Pdu7GjysF?si=GxEU40frRQ2BjiM0H0DXrw](https://open.spotify.com/episode/7oiX6F0r9A6l9Pdu7GjysF?si=GxEU40frRQ2BjiM0H0DXrw)

@@ -3,6 +3,7 @@ title: “Hacia una ética de la generosidad” de Ernesto Castro
 draft: false
 tags:
   - vídeo
+  - autora/ErnestoCastro
 ---
 Vídeo  
 [https://www.youtube.com/watch?v=yRgvjIm83Fk](https://www.youtube.com/watch?v=yRgvjIm83Fk)  

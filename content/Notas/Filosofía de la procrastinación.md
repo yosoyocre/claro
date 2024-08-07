@@ -3,6 +3,7 @@ title: "“Filosofía de la procrastinación: El arte de perder el tiempo” de 
 draft: false
 tags:
   - vídeo
+  - autora/ErnestoCastro
 ---
 Vídeo  
 https://www.youtube.com/watch?v=sXvmA5vWIHc

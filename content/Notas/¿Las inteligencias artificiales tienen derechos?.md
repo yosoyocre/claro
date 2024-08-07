@@ -3,6 +3,7 @@ title: “¿Las inteligencias artificiales tienen derechos?” de Ernesto Castro
 draft: false
 tags:
   - vídeo
+  - autora/ErnestoCastro
 ---
 Vídeo  
 [https://www.youtube.com/watch?v=0_8hsdF_Vd8](https://www.youtube.com/watch?v=0_8hsdF_Vd8)
