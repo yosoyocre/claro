@@ -39,9 +39,11 @@ Narciso invertido
 
 ---
 ### Hibristofilia  
-[https://es.wikipedia.org/wiki/Hibristofilia](https://es.wikipedia.org/wiki/Hibristofilia)  
+
 “La hibristofilia es una parafilia en la cual la excitación sexual y la obtención del orgasmo se producen como respuesta a mantener una relación con una persona que ha cometido una fatalidad, engaño, mentira, infidelidades conocidas o crímenes como violaciones, asesinatos o robo a mano armada.”  
 Esa “persona” podría ser “el sistema”, “el capital”, o incluso “el jefe”
+
+[Ver Wikipedia](https://es.wikipedia.org/wiki/Hibristofilia)  
 
 ---
 Sara Dominguín dice: "un molino, la vida nos tritura con dolor"

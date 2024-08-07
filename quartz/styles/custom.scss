@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.page {
+
+    & article {
+
+        font-size: 1.2rem;
+
+    }
+
+}
