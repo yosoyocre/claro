@@ -79,5 +79,5 @@ La T-palabra (Trabajo)
 La D-palabra (Dinero)
 
 ---
-El descanso dignifica
+El descanso dignifica. 
 Descansar dignifica
