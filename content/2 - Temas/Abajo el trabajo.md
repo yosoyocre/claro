@@ -77,3 +77,7 @@ No soy un cantamañanas porque es demasiado pronto
 ---
 La T-palabra (Trabajo)  
 La D-palabra (Dinero)
+
+---
+El descanso dignifica
+Descansar dignifica
