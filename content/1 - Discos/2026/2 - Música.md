@@ -193,3 +193,8 @@ C A7 D7 G7 C (La rueda de Vs)
 cambia a   
 C Eb7 Ab7 Db7 C  
 [https://youtu.be/dSvO5Tb18tI?si=oQ9hchUm-Bq10ksl](https://youtu.be/dSvO5Tb18tI?si=oQ9hchUm-Bq10ksl) desde el minuto 16:36
+
+---
+Usar *chordioids*, es decir, acordes no clásicos, que no tienen tercera mayor o menor
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmsqkgppBtc?si=50f7dwOb7yzK2lty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
