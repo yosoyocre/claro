@@ -1,5 +1,5 @@
 ---
-title: Libro "Marx Juega Una introducción al marxismo desde los videojuegos (y viceversa)" de Antonio Flores Ledesma
+title: '"Marx Juega Una introducción al marxismo desde los videojuegos (y viceversa)" de Antonio Flores Ledesma'
 draft: false
 tags:
   - libro

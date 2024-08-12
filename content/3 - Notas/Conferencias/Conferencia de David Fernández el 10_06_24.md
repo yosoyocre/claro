@@ -1,5 +1,5 @@
 ---
-title: Conferencia de David Fernández en Alexandre Bóveda el 10/06/24
+title: David Fernández en Alexandre Bóveda el 10/06/24
 draft: false
 tags:
   - "#conferencia"

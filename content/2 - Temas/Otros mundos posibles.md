@@ -37,3 +37,9 @@ John Keads dijo antes de hacer un viaje a pie por Europa: “treparé por las nu
 
 Reunión de varias personas para regalarse y divertirse comiendo y bebiendo, en general sin tasa y descomedidamente.  
 Y de ahí me gusta el verbo “regalarse”
+
+---
+![[Wanderlust#Caminar por caminar]]
+
+---
+![[Wanderlust#Piernas como instrumento filosófico]]
