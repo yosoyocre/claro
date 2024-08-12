@@ -115,6 +115,10 @@ C E
 C Eb  
 Em Gm
 
+Este concepto con la progresión CMaj7 | EbMaj7 | CMaj7 | A7 y una melodía sencilla
+
+![[Piano con mediantes.m4a]]
+
 ---
 Una progresión que combina la mediante cromática con la resolución con VIb como dominante es esta
 
