@@ -83,3 +83,5 @@ Hacer como Artur M Puga y pasarle texto a un traductor español-inglés, el resu
 
 Concepto que me invento: La navajilla de Ockham. Cuando se utiliza lo obvio (la solución más sencilla) para machacar a otro
 
+---
+Donatella Retore canta "Como soy fascinante hago circos con la mente"
