@@ -37,7 +37,7 @@ El Castillo Encantado que vimos en octubre de 2021 en Sciacca, del artista Filip
 La reflexión que hicimos Pablo Evia y yo durante el viaje es que una mierda al acumulada. durante tanto tiempo puede ser algo bonito. Como lo que aspiro a hacer yo
 
 ---
-#concepto Metanoia
+#concepto **Metanoia**
 
 > La metanoia es un proceso de cambio radical que la persona produce en su vida, por efecto de o para afrontar determinadas circunstancias, que le exigen ese esfuerzo.  
 > [[Definicion Metanoia 1.jpg|Ver cita]]
@@ -79,7 +79,8 @@ Miedo/rechazo al compromiso
 Según Elvira Lindo (investigar) el cura que modernizó la música de iglesia fue condenado por abuso a menores
 
 ---
-El sistema simpático: "Los neurotransmisores más importantes del sistema simpático son la adrenalina y noradrenalina. Su acción principal está relacionada con una respuesta de **lucha o huida** ante estímulos externos que puedan poner en peligro al organismo"
+#concepto **El sistema simpático**
+"Los neurotransmisores más importantes del sistema simpático son la adrenalina y noradrenalina. Su acción principal está relacionada con una respuesta de **lucha o huida** ante estímulos externos que puedan poner en peligro al organismo"
 
 Por lo tanto, son los efectos de este sistema los que son exagerados por la masculinidad.
 
@@ -87,7 +88,8 @@ Por lo tanto, son los efectos de este sistema los que son exagerados por la masc
 > Algunos psicoanalistas denominan **«ego observador**» a esta capacidad que permite al analista percibir lo que el proceso de la asociación libre despierta en el paciente y sus propias reacciones ante los comentarios del paciente. \[...\] La conciencia de uno mismo no es un tipo de atención que se vea fácilmente arrastrada por las emociones, que reaccione en demasía o que amplifique lo que se perciba sino que, por el contrario, constituye una actividad neutra que mantiene **la atención sobre uno mismo aun en medio de la más turbulenta agitación emocional**. William Styron parece describir esta facultad cuando, al hablar de su profunda depresión, menciona la sensación de «estar acompañado por una especie de **segundo yo**, un observador espectral que, sin compartir la demencia de su doble, es capaz de **darse cuenta, con desapasionada curiosidad, de sus profundos desasosiegos**»
 
 ---
-**alexitimia**, —del griego a, un prefijo que indica negación, lexis , que significa «palabra» y thymos, que significa «emoción»—, la incapacidad para expresar con palabras sus propios sentimientos
+#concepto **alexitimia**, 
+—del griego a, un prefijo que indica negación, lexis , que significa «palabra» y thymos, que significa «emoción»—, la incapacidad para expresar con palabras sus propios sentimientos
 
 ---
 > Una de las teorías imperantes que explica el éxito de la **terapia electroconvulsiva** en el tratamiento de la mayor parte de las depresiones graves se basa en el hecho de que provoca una pérdida de memoria a corto plazo y, en consecuencia, los pacientes mejoran simplemente porque no pueden recordar el motivo de su tristeza.
@@ -96,6 +98,8 @@ Por lo tanto, son los efectos de este sistema los que son exagerados por la masc
 > La comodidad o incomodidad que experimentamos con los demás es, en cierto modo, física. **Para que dos personas se sientan a gusto y coordinen sus movimientos, deben tener ritmos compatibles**. La sincronía refleja la profundidad de la relación existente entre los implicados y, cuanto mayor es el grado de compromiso, más interrelacionados se hallan sus estados de ánimo, sean éstos positivos o negativos
 
 ---
+#concepto **disemia**
+
 > Los psicólogos han acuñado el término **disemia** (del griego dys, que significa «dificultad» y semes, que significa «señal») para referirse a la incapacidad para captar los mensajes no verbales
 
 ---
