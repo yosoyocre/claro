@@ -12,15 +12,15 @@ tags:
 El error como motor creativo
 
 ---
-Concepto "eunauta" : navegante de lo bueno
+#concepto "eunauta" : navegante de lo bueno
 
-"caconauta" : navegante de lo malo
-
----
-anastrofismo vs catastrofismo
+#concepto "caconauta" : navegante de lo malo
 
 ---
-Eróstrato y la antifama (concepto que me invento)
+#concepto anastrofismo vs catastrofismo
+
+---
+#concepto Eróstrato y la antifama (concepto que me invento)
 
 [https://es.m.wikipedia.org/wiki/Er%C3%B3strato](https://es.m.wikipedia.org/wiki/Er%C3%B3strato)
 
@@ -37,9 +37,13 @@ El Castillo Encantado que vimos en octubre de 2021 en Sciacca, del artista Filip
 La reflexión que hicimos Pablo Evia y yo durante el viaje es que una mierda al acumulada. durante tanto tiempo puede ser algo bonito. Como lo que aspiro a hacer yo
 
 ---
-Metanoia
-[https://photos.app.goo.gl/KVnsZzyiDvRMBdXV6](https://photos.app.goo.gl/KVnsZzyiDvRMBdXV6)
-[https://photos.app.goo.gl/PJkfRJxJXxQ9bgbk9](https://photos.app.goo.gl/PJkfRJxJXxQ9bgbk9)
+#concepto Metanoia
+
+> La metanoia es un proceso de cambio radical que la persona produce en su vida, por efecto de o para afrontar determinadas circunstancias, que le exigen ese esfuerzo.  
+> [[Definicion Metanoia 1.jpg|Ver cita]]
+
+> Este proceso ha sido estudiado antes por Jung. Y dentro del A.T., por Clarkson que define la metanoia como: «un cambio permanente, espiritual y psicológico, de la manera de ser de la persona, que en la práctica se produce a todos los niveles, y lo conduce a otra forma de ser más activa y fecunda y a poner en marcha un inmenso movimiento interior de búsqueda de armonía de vida» (13). En el mismo artículo, más adelante, vuelve a definirlo como: «cambio positivo, radical y duradero, percibido por la persona y quienes le rodean», especificando que su valor se constata por el resultado y no durante el proceso, y es independiente del carácter súbito o gradual con que se haya producido.  
+> [[Definicion Metanoia 2.jpg|Ver cita]]
 
 ---
 Componer 1 segundo al día (para que den las cuentas)
