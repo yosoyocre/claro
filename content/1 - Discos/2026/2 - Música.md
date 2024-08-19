@@ -204,3 +204,9 @@ Usar *chordioids*, es decir, acordes no clásicos, que no tienen tercera (mayor 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmsqkgppBtc?si=50f7dwOb7yzK2lty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Chordioid Examples.pdf|Aquí]] hay un PDF de 8-bit Music Theory con ejemplos de chordioids
+
+---
+Crear una canción usando el lenguaje de programación orientado a música Chuck
+https://chuck.stanford.edu/
+
+Tiene un editor web para probarlo
