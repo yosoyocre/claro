@@ -21,7 +21,7 @@ Ocre es Naíf
 [[Ética artificial]]
 ## Conceptos sueltos
 
-Hipergamia, homogamia, hipogamia
+#concepto Hipergamia, homogamia, hipogamia
 
 ---
 ### Juegos de Ícaro
@@ -29,6 +29,8 @@ Hipergamia, homogamia, hipogamia
 "En el circo, a las acrobacias en las que una persona está tumbada en el suelo y mantiene a otra en equilibrio se las llama **juegos de ícaro**"
 
 [[Cita Juegos de Ícaro.jpg|Ver cita]]
+
+#concepto Juegos de Ícaron
 
 ---
 John Money / Juan Dinero
@@ -44,6 +46,8 @@ Narciso invertido
 Esa “persona” podría ser “el sistema”, “el capital”, o incluso “el jefe”
 
 [Ver Wikipedia](https://es.wikipedia.org/wiki/Hibristofilia)  
+
+#concepto Hibristofilia
 
 ---
 Sara Dominguín dice: "un molino, la vida nos tritura con dolor"
@@ -71,6 +75,8 @@ En alemán, la palabra _“Unheimlich”_ (lo siniestro), es la antónima de hei
 
 De todas las definiciones de Unheimlich, la que más convence a Freud es la del filósofo alemán Schelling, que dice así: “Unheimlich es una extrañeza inquietante. **Es todo lo que estando destinado a permanecer en secreto, oculto, ha salido a la luz**”.
 
+#concepto unheimlich
+
 ---
 La vida es broma  
 Es bromazepam
@@ -82,6 +88,8 @@ Hacer como Artur M Puga y pasarle texto a un traductor español-inglés, el resu
 ### La navajilla de Ockham
 
 Concepto que me invento: La navajilla de Ockham. Cuando se utiliza lo obvio (la solución más sencilla) para machacar a otro
+
+#concepto La navajilla de Ockham
 
 ---
 Antía tradujo una frase de Donatella Retore como "Como soy fascinante hago circos con la mente"
