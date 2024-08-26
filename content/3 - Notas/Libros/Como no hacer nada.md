@@ -116,3 +116,10 @@ Barbara Ehrenreich dice:
 #concepto herida repetitiva del espíritu
 
 
+> la decisión de dejar Facebook implica su propia clase de «margen»: 
+> 
+> Es posible que ese rechazo solo sea posible para gente que ya posee una gran cantidad de capital social, personas cuya posición social resistirá sin Facebook, y personas cuyas vidas no les exigen estar constantemente conectados y disponibles... Esas son las personas que tienen lo que Noonan (2011) llama «**el poder de apagar**».
+
+[[Cita_CNHN_16.jpg|Ver cita]]
+
+#concepto el poder de apagar
