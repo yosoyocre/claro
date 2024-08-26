@@ -81,3 +81,6 @@ La D-palabra (Dinero)
 ---
 El descanso dignifica. 
 Descansar dignifica
+
+---
+![[Como no hacer nada]]
