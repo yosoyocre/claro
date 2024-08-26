@@ -88,6 +88,8 @@ Citando las *Conversaciones* de Gilles Deleuze:
 
 [[Cita_CNHN_12.jpg|Ver cita]]
 
+## El tercer espacio
+
 Sobre Diógenes:
 
 > historias como la suya contribuyen a la creación de nuestro **vocabulario de la negativa**, del rechazo \[...\] ni se asimiló a la sociedad ni la abandonó por completo; lo que sí hizo fue vivir dentro de ella en un estado **permanente de rechazo**. \[...\] creía que era su deber alzarse como una **negativa viviente** en un mundo estancado.
@@ -97,3 +99,8 @@ Sobre Diógenes:
 [[Cita_CNHN_13.jpg|Ver cita]]
 
 #concepto tercer espacio
+
+> Se decía que Estilpón era borracho y Sócrates, aburrido, y que ambos eran dados a la indulgencia sensual. Pero los dos superaron y erradicaron totalmente esos defectos naturales con voluntad, deseo y entrenamiento (voluntate, studio, disciplina) \[...\] Es a través de estas cosas como encontramos y habitamos [[Como no hacer nada#El tercer espacio|el tercer espacio]] y, lo que es más importante, aprendemos a mantenernos en él
+
+#concepto voluntad, deseo y entrenamiento
+
