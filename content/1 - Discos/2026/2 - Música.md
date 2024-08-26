@@ -87,6 +87,8 @@ o
 Eb | Cm | Gm | Fm | F\# | G\#  
 Eb | Cm | Gm | Fm | F\# | Bb7
 
+![[prueba mixolidia.ogg]]
+
 ---
 Bb | G\# | C
 
@@ -95,6 +97,8 @@ Bb | G\# | C
 Repetir en bucle
 
 Cm7 | F | C
+
+![[prueba IV que parece V.ogg]]
 
 ---
 Pasamos de escala de Bb a escala de C  
