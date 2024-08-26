@@ -137,3 +137,9 @@ Sobre la ciudad
 [[Cita_CNHN_18.jpg|Ver cita]]
 
 #concepto isla de encuentros forzados
+
+> era lo que Hannah Arendt llamaba «**el espacio de la aparición**». Para Arendt, el espacio de la aparición era la semilla de la democracia, y venía definido por **cualquier conjunto de personas que hablan y actúan juntas de manera significativa**. Aunque frágil, el espacio de la aparición puede surgir en cualquier momento en que esas condiciones se dan, y tienen que ver con la **proximidad y la escala**. «El único factor material indispensable para la generación de poder es el vivir unido del pueblo —afirma Arendt—. Solo donde los hombres viven tan unidos que las potencialidades de la acción están siempre presentes, el poder puede permanecer con ellos.» Básicamente, el espacio de la aparición es un encuentro lo bastante pequeño y concentrado para la pluralidad de sus agentes no se derrumbe. El dinamismo de ese encuentro plural es lo que garantiza la posibilidad del poder; eso es algo que sabemos de manera intuitiva a partir de la forma del diálogo, donde la interacción de dos argumentos conduce a algo nuevo.
+
+[[Cita_CNHN_19.jpg|Ver cita]]
+
+#concepto espacio de la aparición
