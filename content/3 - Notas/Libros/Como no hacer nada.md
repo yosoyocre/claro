@@ -84,3 +84,6 @@ Citando las *Conversaciones* de Gilles Deleuze:
 
 [[Cita_CNHN_11.jpg|Ver cita]]
 
+> El potencial de la nada lo es todo.
+
+[[Cita_CNHN_12.jpg|Ver cita]]
