@@ -144,6 +144,8 @@ Sobre la ciudad
 
 #concepto espacio de la aparición
 
+## Desmantelamiento manifiesto 
+
 > ¿Qué es lo contrario del Destino Manifiesto? A mí me parece que sería algo así como el Ángel de la Historia. Se trata de un concepto que yo denomino «**desmantelamiento manifiesto**». Imagino otra pintura, una en la que el Destino Manifiesto no venga acompañado de trenes y de barcos, sino por un desmantelamiento manifiesto, una mujer de túnica oscura que se dedica a deshacer todo el daño que ha traído el Destino Manifiesto, a limpiar su estropicio.
 
 [[Cita_CNHN_20.jpg|Ver cita]]
@@ -155,3 +157,7 @@ El cuadro del que habla es *El Progreso Estadounidense* de John Gast que es una 
 ![[American_Progress_(John_Gast_painting).jpg]]
 
 [[https://es.wikipedia.org/wiki/Doctrina_del_destino_manifiesto|Ver wikipedia]]
+
+> A mí me interesa el [[Como no hacer nada#Desmantelamiento manifiesto|desmantelamiento manifiesto]] como forma propositiva relacionada con la reparación, algo que exige que renunciemos a la idea de que el progreso solo puede avanzar hacia delante, ciegamente. Se trata de un planteamiento que proporciona una nueva dirección a nuestra ética del trabajo. La reparación, sin duda, consume la misma cantidad de trabajo: en este caso, una represa que había tardado tres años en construirse llevó casi el mismo tiempo en eliminarse.
+
+[[Cita_CNHN_21.jpg|Ver cita]]
