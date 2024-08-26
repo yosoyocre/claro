@@ -129,3 +129,11 @@ Barbara Ehrenreich dice:
 [[Cita_CNHN_17.jpg|Ver cita]]
 
 #concepto tifos
+
+Sobre la ciudad
+
+> Es esta **«isla» de encuentros forzados** la que me viene a la mente cuando pienso en el autobús, o en la ciudad más en general. La proximidad espacial tiene mucho que ver con ello, dado que la experiencia urbana es un estado de **tensión mantenido contra el instinto de dispersarse**.
+
+[[Cita_CNHN_18.jpg|Ver cita]]
+
+#concepto isla de encuentros forzados
