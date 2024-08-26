@@ -143,3 +143,15 @@ Sobre la ciudad
 [[Cita_CNHN_19.jpg|Ver cita]]
 
 #concepto espacio de la aparición
+
+> ¿Qué es lo contrario del Destino Manifiesto? A mí me parece que sería algo así como el Ángel de la Historia. Se trata de un concepto que yo denomino «**desmantelamiento manifiesto**». Imagino otra pintura, una en la que el Destino Manifiesto no venga acompañado de trenes y de barcos, sino por un desmantelamiento manifiesto, una mujer de túnica oscura que se dedica a deshacer todo el daño que ha traído el Destino Manifiesto, a limpiar su estropicio.
+
+[[Cita_CNHN_20.jpg|Ver cita]]
+
+#concepto desmantelamiento manifiesto
+
+El cuadro del que habla es *El Progreso Estadounidense* de John Gast que es una representación alegórica del Destino Manifiesto.
+
+![[American_Progress_(John_Gast_painting).jpg]]
+
+[[https://es.wikipedia.org/wiki/Doctrina_del_destino_manifiesto|Ver wikipedia]]
