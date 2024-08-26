@@ -46,3 +46,6 @@ Y de ahí me gusta el verbo “regalarse”
 
 ---
 ![[Anarquía relacional]]
+
+---
+![[Masculinidad femenina]]
