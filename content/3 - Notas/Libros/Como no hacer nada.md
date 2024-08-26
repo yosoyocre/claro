@@ -21,4 +21,8 @@ tags:
 
 [[Cita_CNHN_3.jpg|Ver cita]]
 
+Citando las *Conversaciones* de Gilles Deleuze:
 
+> hoy estamos anegados en palabras inútiles, en cantidades ingentes de palabras y de imágenes. La estupidez nunca es muda ni ciega. El problema no consiste en conseguir que la gente se exprese, sino en poner a su disposición vacuolas de soledad y de silencio a partir de las cuales podrían llegar a tener algo que decir. Las fuerzas represivas no impiden expresarse a nadie, al contrario, nos fuerzan a expresarnos. ¡Qué tranquilidad supondría no tener nada que decir, tener derecho a no tener nada que decir, pues tal es la condición para que se configure algo raro o enrarecido que merezca la pena de ser dicho.
+
+[[Cita_CNHN_4.jpg|Ver cita]]
