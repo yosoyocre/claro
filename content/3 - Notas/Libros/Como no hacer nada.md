@@ -44,3 +44,14 @@ Citando las *Conversaciones* de Gilles Deleuze:
 > Como dijo Gordon Hempton, un ecologista de la acústica que se dedica a grabar paisajes sonoros naturales: «**El silencio no es la ausencia de algo, sino la presencia de todo**»
 
 [[Cita_CNHN_7.jpg|Ver cita]]
+
+> Cuando escribe sobre la circulación de la información Berardi establece una distinción. que resulta particularmente útil en este punto, entre lo que él denomina **conectividad** v la **sensibilidad**.
+> 
+> La **conectividad es la rápida circulación de la información entre unidades compatibles**; un ejemplo sería un artículo que consiguiera ser compartido en Facebook un buen puñado de veces de manera rápida, impulsiva, por personas de mentalidad similar. Con la conectividad, o somos compatibles o no lo somos. Rellena la casilla roja o azul. En ese tipo de transmisión de información, las unidades no cambian, como tampoco cambia la información.
+> 
+> En cambio, la **sensibilidad implica un encuentro difícil, incómodo, ambiguo, entre dos cuerpos de distintas formas que son, ellos mismos, ambiguos**, y ese encuentro, esa captación, requiere de tiempo y se da en el tiempo. Y no solo eso, sino que debido al esfuerzo de percibir, las dos entidades pueden salir de ese encuentro algo distintas de como entraron en él.
+
+#concepto conectividad vs. sensibilidad
+#autora/FrancoBifoBerardi  
+
+[[Cita_CNHN_8.jpg|Ver cita]]
