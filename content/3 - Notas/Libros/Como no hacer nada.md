@@ -87,3 +87,13 @@ Citando las *Conversaciones* de Gilles Deleuze:
 > El potencial de la nada lo es todo.
 
 [[Cita_CNHN_12.jpg|Ver cita]]
+
+Sobre Diógenes:
+
+> historias como la suya contribuyen a la creación de nuestro **vocabulario de la negativa**, del rechazo \[...\] ni se asimiló a la sociedad ni la abandonó por completo; lo que sí hizo fue vivir dentro de ella en un estado **permanente de rechazo**. \[...\] creía que era su deber alzarse como una **negativa viviente** en un mundo estancado.
+> 
+>  \[...\]  «Voy a participar pero no tal como se me pide» \[...\] Esa respuesta (o «no respuesta») es algo que, según yo lo veo, produce lo que denomino un «**tercer espacio**», una salida casi mágica a otro marco de referencia.
+
+[[Cita_CNHN_13.jpg|Ver cita]]
+
+#concepto tercer espacio
