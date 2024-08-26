@@ -51,7 +51,7 @@ Citando las *Conversaciones* de Gilles Deleuze:
 > 
 > En cambio, la **sensibilidad implica un encuentro difícil, incómodo, ambiguo, entre dos cuerpos de distintas formas que son, ellos mismos, ambiguos**, y ese encuentro, esa captación, requiere de tiempo y se da en el tiempo. Y no solo eso, sino que debido al esfuerzo de percibir, las dos entidades pueden salir de ese encuentro algo distintas de como entraron en él.
 
-#concepto conectividad vs. sensibilidad
+#concepto conectividad vs. sensibilidad  
 #autora/FrancoBifoBerardi  
 
 [[Cita_CNHN_8.jpg|Ver cita]]
@@ -73,3 +73,9 @@ Citando las *Conversaciones* de Gilles Deleuze:
 #concepto Fuerza de vida vs. fuerza de muerte
 
 [[Cita_CNHN_9.jpg|Ver cita]]
+
+> Solnit sugiere que **el verdadero desastre es la vida cotidiana**, que nos aleja de los demás y del impulso protector que albergamos
+
+[[Cita_CNHN_10.jpg|Ver cita]]  
+
+#autora/RebeccaSolnit 
