@@ -43,3 +43,6 @@ Y de ahí me gusta el verbo “regalarse”
 
 ---
 ![[Wanderlust#Piernas como instrumento filosófico]]
+
+---
+![[Anarquía relacional]]
