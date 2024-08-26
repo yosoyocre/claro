@@ -123,3 +123,9 @@ Barbara Ehrenreich dice:
 [[Cita_CNHN_16.jpg|Ver cita]]
 
 #concepto el poder de apagar
+
+> En marcado constraste con la palabra *cinismo*, los cínicos griegos estaban sinceramente interesados en sacar al pueblo llano del **sopor general**. Imaginaban ese sopor como algo que llamaban ***tifos*** término que también significa «niebla», «humo», y «tormentas», de ahí deriva la palabra tifón.
+
+[[Cita_CNHN_17.jpg|Ver cita]]
+
+#concepto tifos
