@@ -161,3 +161,13 @@ El cuadro del que habla es *El Progreso Estadounidense* de John Gast que es una 
 > A mí me interesa el [[Como no hacer nada#Desmantelamiento manifiesto|desmantelamiento manifiesto]] como forma propositiva relacionada con la reparación, algo que exige que renunciemos a la idea de que el progreso solo puede avanzar hacia delante, ciegamente. Se trata de un planteamiento que proporciona una nueva dirección a nuestra ética del trabajo. La reparación, sin duda, consume la misma cantidad de trabajo: en este caso, una represa que había tardado tres años en construirse llevó casi el mismo tiempo en eliminarse.
 
 [[Cita_CNHN_21.jpg|Ver cita]]
+
+Sobre el libro *La revolución de una brizna de paja* de  Masanobu Fukuoka
+
+> Masanobu Fukuoka, experimentó ese giro copernicano cuando inventó lo que denominó «**agricultura del no hacer nada**». Inspirándose en la productividad de un terreno abandonado que vio lleno de hierba y maleza, Fukuoka ideó un método de cultivo que recurría exclusivamente a las relaciones existentes en la tierra. En lugar de inundar los campos y de sembrar en primavera, empezó a esparcir las semillas directamente en la tierra en otoño, que es cuando habrían caído de manera natural. En lugar de fertilizante convencional, dejaba crecer un manto de tréboles, y echaba los tallos sobrantes sobre el cultivo.
+> 
+> El método de Fukuoka requería menos trabajo, nada de maquinaria y nada de productos químicos, pero le llevó décadas perfeccionarlo y exigía prestar mucha atención. Si todo se hacía en el momento exacto, la recompensa era indudable: la granja de Fukuoka no solo era más productiva y sostenible que las granjas vecinas, sino que su método era capaz de reparar los suelos empobrecidos tras varias estaciones, creando tierra cultivable en terrenos rocosos y otras áreas poco propicias
+
+[[Cita_CNHN_22.jpg|Ver cita]]
+
+#concepto agricultura del no hacer nada
