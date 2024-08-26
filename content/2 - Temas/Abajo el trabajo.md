@@ -81,3 +81,15 @@ Descansar dignifica
 
 ---
 ![[Como no hacer nada]]
+
+---
+
+Oscar Wilde decía
+
+> no hacer absolutamente nada, que es la cosa más difícil del mundo, la más difícil y la más intelectual
+
+> el trabajo es la maldición de las clases bebedoras
+
+> el elegido vive para no hacer nada
+
+[[Cita_Oscar_Wilde.jpg|Ver citas]]
