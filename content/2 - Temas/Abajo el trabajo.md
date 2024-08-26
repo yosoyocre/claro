@@ -56,9 +56,6 @@ Hacer una canción que se vea claramente inacabada, en la que se muestre el conf
 ![[Programa La fatiga de Punzadas sonoras]]
 
 ---
-“Si te deslomas más de 360 días al año en trabajos duros ¿se cronifica alguna clase de **herida repetitiva del espíritu**?”
-
----
 ## Trabajo muerto
 “Trabajo muerto”: “un producto es solo el resultado de trabajo pasado”  
 Como si fuese un fósil de trabajo pasado, de tiempo invertido pasado

@@ -101,6 +101,18 @@ Sobre Diógenes:
 #concepto tercer espacio
 
 > Se decía que Estilpón era borracho y Sócrates, aburrido, y que ambos eran dados a la indulgencia sensual. Pero los dos superaron y erradicaron totalmente esos defectos naturales con voluntad, deseo y entrenamiento (voluntate, studio, disciplina) \[...\] Es a través de estas cosas como encontramos y habitamos [[Como no hacer nada#El tercer espacio|el tercer espacio]] y, lo que es más importante, aprendemos a mantenernos en él
+>
+
+[[Cita_CNHN_14.jpg|Ver cita]]
 
 #concepto voluntad, deseo y entrenamiento
+
+Barbara Ehrenreich dice:
+
+> “Si te deslomas más de 360 días al año en trabajos duros ¿se cronifica alguna clase de **herida repetitiva del espíritu**?”
+
+[[Cita_CNHN_15.jpg|Ver cita]]
+
+#concepto herida repetitiva del espíritu
+
 
