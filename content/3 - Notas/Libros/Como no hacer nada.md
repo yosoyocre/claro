@@ -79,3 +79,8 @@ Citando las *Conversaciones* de Gilles Deleuze:
 [[Cita_CNHN_10.jpg|Ver cita]]  
 
 #autora/RebeccaSolnit 
+
+> la «paz» es una negociación interminable entre agentes que actúan libremente y cuyas voluntades no pueden diseñarse
+
+[[Cita_CNHN_11.jpg|Ver cita]]
+
