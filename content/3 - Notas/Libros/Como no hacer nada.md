@@ -32,3 +32,11 @@ Citando las *Conversaciones* de Gilles Deleuze:
 [[Cita_CNHN_5.jpg|Ver cita]]
 
 #concepto Eros observacional
+
+> Pero, por supuesto, ese envolvimiento de la atención no tiene por qué ser espacializado ni visual. En el caso de un auditorio, por ejemplo, me centro en lo que se conoce como Escucha Profunda, legado de la música y compositora Pauline Oliveros. Con una formación clásica en composición, Oliveros daba clases de música experimental en San Diego en la década de 1970. Empezó a desarrollar técnicas de participación grupal —como *performances* en que los asistentes se escuchaban los unos a los otros y  escuchaban el sonido ambiente e improvisaban respuestas a ambas cosas— como una manera de trabajar con el sonido que sirviera para aportar algo de paz interior en medio de toda la violencia y la agitación de la guerra de Vietnam.
+> 
+> La Escucha Profunda era una de esas técnicas. Oliveros define dicha práctica como «**escuchar de todas las maneras posibles todo lo que sea posible escuchar, independientemente de lo que estés haciendo.** Esa escucha intensa incluye los sonidos de la vida diaria, de la naturaleza, de los propios pensamientos, así como sonidos musicales». La compositora distinguía entre escuchar y oír. «Oír es el medio físico que permite la percepción. Escuchar es prestar atención lo que es percibido tanto acústica como psicológicamente.» La meta y la recompensa de la Escucha Profunda era una sensación potenciada de receptividad y un cambio de nuestra formación cultural habitual, que nos enseña a analizar rápidamente y a juzgar más que simplemente a observar.
+
+[[Cita_CNHN_6.jpg|Ver cita]]
+
+#concepto Escucha profunda
