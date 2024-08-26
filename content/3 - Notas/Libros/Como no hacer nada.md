@@ -12,3 +12,7 @@ tags:
 #concepto Resistencia en el sitio
 
 [[Cita_CNHN_1.jpg|Ver cita]]
+
+> la simple conciencia es la semilla de la responsabilidad
+
+[[Cita_CNHN_2.jpg|Ver cita]]
