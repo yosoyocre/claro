@@ -3,6 +3,8 @@ title: '"Cómo no hacer nada: Resistirse a la economía de la atención" de Jenn
 draft: false
 tags:
 ---
+## Resistencia en el sitio
+ 
 > el árbol me proporciona una imagen de «**resistencia en el sitio**». Resistir *in situ* es adoptar una forma de la que no pueda apropiarse el fácilmente el sistema de valores capitalista. Conseguirlo pasa por rechazar el marco de referencia en el que el valor viene determinado por la productividad, la fortaleza de la propia carrera y la iniciativa individual.
 > 
 > Implica adoptar ideas algo difusas, o amorfas, e intentar vivir de acuerdo con ellas: el mantenimiento como productividad, la importancia de la comunicación no verbal y la mera experiencia de la vida como la meta más elevada. Implica reconocer y celebrar una forma del yo que cambie con el tiempo, que desborda la descripción algorítmica cuya identidad no siempre se detiene en el límite de lo individual.
@@ -171,3 +173,15 @@ Sobre el libro *La revolución de una brizna de paja* de  Masanobu Fukuoka
 [[Cita_CNHN_22.jpg|Ver cita]]
 
 #concepto agricultura del no hacer nada
+
+Chuang Tsé escribe:
+
+> La humanidad no sabe nada. No existe ningún valor intrínseco en nada, y toda acción es un esfuerzo inútil, sin sentido
+
+[[Cita_CNHN_23.jpg|Ver cita]]
+
+> una meta sin telos, como una visión del futuro que no culmina en un punto, sino que más bien da vueltas y más vueltas en torno de sí misma en una renegociación constante. La idea de un **propósito sin propósito**, o de un proyecto sin meta, tal vez te suene familiar. En efecto, se parece un poco a nuestro viejo amigo, [[Como no hacer nada#Resistencia en el sitio|el árbol inútil]], que no «consigue» nada, solo ser testigo, ofrecer refugio y resistir contra todo pronóstico.
+
+[[Cita_CNHN_24.jpg|Ver cita]]
+
+#concepto propósito sin propósito
