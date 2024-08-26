@@ -55,3 +55,21 @@ Citando las *Conversaciones* de Gilles Deleuze:
 #autora/FrancoBifoBerardi  
 
 [[Cita_CNHN_8.jpg|Ver cita]]
+
+> En 1969, escribió un «Manifiesto por un arte del mantenimiento»
+> \[...\]
+> inicia con una distinción entre lo que ella llama **la fuerza de la muerte y la fuerza de la vida**:
+> 
+> IDEAS
+> 
+> a. El instinto de muerte y el instinto de vida:
+> 
+> El instinto de muerte: separación, individualidad, vanguardia por excelencia, seguir el propio camino, ir a la tuya; cambio dinámico.
+> 
+> El instinto de vida: unificación; eterno retorno; perpetuación del MANTENIMIENTO de las especies; sistemas y operaciones de supervivencia, equilibrio.
+> 
+> La fuerza de la vida tiene que ver con lo cíclico, con el cuidado y la regeneración; la fuerza de la muerte se me parece mucho a la «disrupción». Evidentemente, las dos son necesarias en alguna medida, pero una se valora por defecto, no mencionar que se masculiniza, mientras que la otra carece de reconocimiento porque no forma parte del «progreso».
+
+#concepto Fuerza de vida vs. fuerza de muerte
+
+[[Cita_CNHN_9.jpg|Ver cita]]
