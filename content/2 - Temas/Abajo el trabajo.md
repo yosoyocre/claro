@@ -93,3 +93,6 @@ Oscar Wilde decía
 > el elegido vive para no hacer nada
 
 [[Cita_Oscar_Wilde.jpg|Ver citas]]
+
+---
+![[Medio siglo contra el trabajo]]
