@@ -40,3 +40,7 @@ Citando las *Conversaciones* de Gilles Deleuze:
 [[Cita_CNHN_6.jpg|Ver cita]]
 
 #concepto Escucha profunda
+
+> Como dijo Gordon Hempton, un ecologista de la acústica que se dedica a grabar paisajes sonoros naturales: «**El silencio no es la ausencia de algo, sino la presencia de todo**»
+
+[[Cita_CNHN_7.jpg|Ver cita]]
