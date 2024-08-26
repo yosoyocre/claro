@@ -93,3 +93,6 @@ Concepto que me invento: La navajilla de Ockham. Cuando se utiliza lo obvio (la 
 
 ---
 Antía tradujo una frase de Donatella Retore como "Como soy fascinante hago circos con la mente"
+
+---
+![[Aquí intemperies]]
