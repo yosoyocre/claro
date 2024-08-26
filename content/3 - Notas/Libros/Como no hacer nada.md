@@ -16,3 +16,9 @@ tags:
 > la simple conciencia es la semilla de la responsabilidad
 
 [[Cita_CNHN_2.jpg|Ver cita]]
+
+> Una de las cosas que he aprendido sobre la atención es que algunas de sus formas son contagiosas. Cuando pasas cierto tiempo con alguien que presta mucha atención a algo (si pasaras ratos conmigo, serían los pájaros), inevitablemente **empiezas a fijarte en las mismas cosas**, al menos en algunas. También he aprendido que los patrones de atención (lo que optamos por captar y lo que no) son nuestra manera de representarnos la realidad a nosotros mismos, por lo que guardan una relación directa con lo que consideramos posible en cualquier momento dado.
+
+[[Cita_CNHN_3.jpg|Ver cita]]
+
+
