@@ -9,4 +9,6 @@ tags:
 > 
 > En un entorno completamente orientado a la apropiación capitalista de nuestros pensamientos mas nimios, hacerlo no resulta menos incómodo que llevar la ropa que no toca en un evento al que hay que asistir vestido de una determinada manera. Como demostraré a partir de ejemplos de rechazos pasados, para mantenerse en esa línea **hace falta compromiso, disciplina y voluntad. No hacer nada es difícil.**
 
+#concepto Resistencia en el sitio
+
 [[Cita_CNHN_1.jpg|Ver cita]]
