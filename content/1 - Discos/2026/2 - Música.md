@@ -224,3 +224,9 @@ Me mola cómo suena pasar de Cm a Gsus4
 ![[Jack-Douthetts-cube-dance.png]]
 
 Se explica en este vídeo de [[https://www.youtube.com/watch?v=EIzAzFlGu7E|12tone]].
+
+---
+#todo Probar esta técnica para generar patrones a partir de una pista replicada 2 veces y movida 1bpm cada vez
+
+https://www.youtube.com/watch?v=Qjscg66TIQA
+
