@@ -214,3 +214,6 @@ Crear una canción usando el lenguaje de programación orientado a música Chuck
 https://chuck.stanford.edu/
 
 Tiene un editor web para probarlo
+
+---
+Me mola cómo suena pasar de Cm a Gsus4
