@@ -217,3 +217,10 @@ Tiene un editor web para probarlo
 
 ---
 Me mola cómo suena pasar de Cm a Gsus4
+
+---
+#todo Explorar el "Jack Douthett's cube dance"
+
+![[Jack-Douthetts-cube-dance.png]]
+
+Se explica en este vídeo de [[https://www.youtube.com/watch?v=EIzAzFlGu7E|12tone]].
