@@ -3,6 +3,7 @@ title: '"Erótica, estética, revolución: las utopías concretas de Herbert Mar
 draft: false
 tags:
   - autora/AmadorFernandezSavater
+  - articulo
 ---
 https://ctxt.es/es/20230301/Firmas/42360/Amador-Fernandez-Savater-Herbert-Marcuse-filosofia-placer-deseo.htm
 
