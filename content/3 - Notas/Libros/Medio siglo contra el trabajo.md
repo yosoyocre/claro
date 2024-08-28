@@ -19,3 +19,21 @@ tags:
 [[Cita_MSCE_3.jpg|Ver cita]]
 
 #concepto generación de cristal
+
+> En la dimensión precaria, hay que invertir tiempo en la búsqueda permanente de salarios y en una competencia constante. La energía nerviosa se invierte continuamente en la competición social, por lo cual queda poca energía nerviosa disponible para la atención erótica y el placer del cortejo.
+
+[[Cita_MSCE_4.jpg|Ver cita]]
+
+> Creo que tenemos que entender nuestro presente como una condición de espasmo, de aceleración dolorosa que no puede ser mejorada por la voluntad sino solo por la sensibilidad.
+> 
+> Guattari habla de «**espasmo caósmico**» para entender una condición de sufrimiento y caos mental que puede solucionarse solo a través de la creación de una nueva condición social, de una nueva relación entre el cuerpo individual, el cuerpo cósmico y el cuerpo de los demás. **Solo la liberación de la condición capitalista, solo la liberación de la esclavitud laboral precaria, solo la liberación de la competencia generalizada podría abrir un horizonte postsuicida**.
+
+[[Cita_MSCE_5.jpg|Ver cita]]
+
+#concepto espasmo caósmico
+
+> No es el museo, sino el **muro gris** el reactivador de la imaginación deprimida. Un muro gris, como una hoguera, es un sacrificio que lleva en sí mismo una sugerencia: no continúes el juego, empieza uno nuevo. No construyas sobre las ruinas de los valores modernos.
+
+[[Cita_MSCE_6.jpg|Ver cita]]
+
+#concepto el muro gris
