@@ -37,3 +37,11 @@ tags:
 [[Cita_MSCE_6.jpg|Ver cita]]
 
 #concepto el muro gris
+
+> De momento, el finazismo gana por dos razones. En primer lugar, porque hemos perdido el placer de estar juntos. Treinta años de precariedad y competencia han destruido la solidaridad social. La virtualización ha destruido la empatía entre los cuerpos, el placer de tocarse y el placer de vivir en espacios urbanos. Hemos perdido el placer del amor sensual porque dedicamos demasiado tiempo al trabajo y al intercambio virtual.
+> 
+> **El gran ejército de los amantes debe despertar**.
+
+[[Cita_MSCE_7.jpg|Ver cita]]
+
+#concepto El gran ejército de los amantes
