@@ -103,3 +103,21 @@ tags:
 [[Cita_MSCE_16.jpg|Ver cita]]
 
 #concepto venganza capitalista
+
+> Una de las ideas fuertes del movimiento de la autonomía era que «**lo precario es bello**». La precariedad del trabajo es una forma de autonomía del trabajo regulado de por vida. En los años setenta era común trabajar durante unos meses, luego pedir permiso para irse de viaje, regresar y retomar el trabajo durante algunos meses, y así sucesivamente. 
+> En condiciones de casi pleno empleo y en presencia de una generalizada cultura igualitaria, no competitiva, no consumista, un estilo de vida de este tipo es posible, y es bueno para el espíritu y el cuerpo.
+> \[...\]  
+> Ya no hay seres humanos que trabajan, sino fragmentos temporales sometidos al proceso de valorización, átomos de tiempo recombinantes en el ciclo productivo global.
+
+[[Cita_MSCE_17.jpg|Ver cita]]
+
+#concepto lo precario es bello
+
+> En su libro ***La fatiga de ser uno mismo***, Ehrenberg parte de la idea de que la depresión es un trastorno que debe ser comprendido en un contexto social. \[...\] La depresión produce una herida del narcisismo, esta herida reduce la energía libidinal investida en la acción y, en consecuencia, la depresión se refuerza por el hecho de que provoca una caída del activismo y de la capacidad competitiva.
+> \[...\]  
+> Esta manera de ser se presenta como una enfermedad de la responsabilidad, en la cual domina el sentimiento de insuficiencia. **El deprimido no está a la altura, está cansado de haberse convertido en sí mismo.**
+> No sorprende que la depresión se propague en una época en la que se afirma como dominante una ideología empresarial y competitiva.
+
+[[Cita_MSCE_18.jpg|Ver cita]]
+
+#concepto la fatiga de ser uno mismo
