@@ -61,3 +61,19 @@ tags:
 [[Cita_MSCE_10.jpg|Ver cita]]
 
 #concepto El poeta contra el trabajo asalariado
+
+> \[...\] la inteligencia es depresiva, y la voluntad es la única cura que permite ignorar el abismo. Ignorar, no eliminar.
+
+[[Cita_MSCE_11.jpg|Ver cita]]
+
+> Paul Virilio ha escrito importantes libros para mostrar el **vínculo entre guerra y velocidad**: en las formas modernas del dominio está implícita la imposición de la guerra a toda la vida social, precisamente porque la **competencia económica es guerra, y el terreno común a la guerra y a la economíca es el de la velocidad**
+
+[[Cita_MSCE_12.jpg|Ver cita]]
+
+#conepto vínculo entre guerra y velocidad
+
+> ¿No deberíamos librarnos de la manía por el activismo que ha animado el siglo XX hasta la catástrofe de la guerra? ¿No deberíamos librarnos del intento cien veces repetido y cien veces fallido de actuar para liberar las energías humanas de la dominación del capital? ¿No estará quizás solo en **la retirada, en la inactividad, en el silencio, en el sabotaje pasivo**, el camino de la autonomía de lo social respecto de la movilización económica y militar?
+
+[[Cita_MSCE_13.jpg|Ver cita]]
+
+#cocepto retirada, inactividad, silencio y sabotaje
