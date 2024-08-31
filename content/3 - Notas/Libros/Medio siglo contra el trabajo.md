@@ -77,3 +77,29 @@ tags:
 [[Cita_MSCE_13.jpg|Ver cita]]
 
 #cocepto retirada, inactividad, silencio y sabotaje
+
+> Los objetos que \[la modernidad disruptiva\] enfatiza y que transforma en valores estéticos y políticos son **la máquina, la velocidad, la violencia, la guerra**.
+> \[...\]  
+> La máquina se encuentra en el centro del mundo imaginario futurista. Se trata de la **Máquina Externa**, la máquina pesada, ferruginosa y voluminosa
+> \[...\]  
+> Hoy, en el siglo XXI, vivimos rodeados y penetrados por **Máquinas Internas**, máquinas infobiotecnológicas cuyo funcionamiento y cuyos efectos en la evolución cultural de la especie humana no somos todavía capaces de valorar plenamente.
+
+[[Cita_MSCE_14.jpg|Ver cita]]
+
+#concepto Máquina Externa vs. Máquina Interna
+
+> **rechazo del trabajo** \[...\] Significa que la reestructuración capitalista, el cambio tecnológico y la transformación general de las instituciones sociales son el producto de una **acción cotidiana de sustracción de la obligación de producir plusvalía y aumentar el valor capital reduciendo el valor de la vida**.
+
+[[Cita_MSCE_15.jpg|Ver cita]]
+
+> La autonomía social ha desencadenado las potencias del saber y de la imaginación colectiva, pero el liberalismo traduce esta liberación sobre el terreno paranoico de la competitividad.
+> \[...\]  
+> Los trabajadores exigían libertad frente a la regulación capitalista, y luego el capital hizo lo mismo, pero de manera inversa. 
+> \[...\]  
+> Los trabajadores exigían libertad de la prisión de trabajo para toda la vida de la fábrica industrial y la *deregulation* respondió a través de la flexibilización del trabajo y la fractalización del trabajo.
+> \[...\]  
+> El movimiento de la autonomía en los años setenta puso en marcha un proceso peligroso pero indispensable. Un proceso que se desarrolló desde el rechazo social del dominio capitalista hasta la **venganza capitalista** que tomó la forma de *deregulation*, libertad de empresa de todo control estatal, destrucción de la protección social, reducción y externalización de la producción, recorte del gasto social, deducción de impuestos y, finalmente, flexibilización.
+
+[[Cita_MSCE_16.jpg|Ver cita]]
+
+#concepto venganza capitalista
