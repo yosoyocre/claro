@@ -30,6 +30,10 @@ tags:
 
 [[Cita_MSCE_5.jpg|Ver cita]]
 
+> El algoritmo nos hace caer en **estado espasmódico**, al acelerar la circulación de signos hasta tal punto que no podemos más que dejarnos «**invadir por el caos**»
+
+[[Cita_MSCE_8.jpg|Ver cita]]
+
 #concepto espasmo caósmico
 
 > No es el museo, sino el **muro gris** el reactivador de la imaginación deprimida. Un muro gris, como una hoguera, es un sacrificio que lleva en sí mismo una sugerencia: no continúes el juego, empieza uno nuevo. No construyas sobre las ruinas de los valores modernos.
@@ -45,3 +49,15 @@ tags:
 [[Cita_MSCE_7.jpg|Ver cita]]
 
 #concepto El gran ejército de los amantes
+
+> La ideología y la publicidad han exaltado hasta hoy la movilización permanente de las energías productivas y nerviosas de la humanidad hacia el lucro y hacia la guerra; **nosotros queremos exaltar la ternura, el sueño y el éxtasis, la frugalidad de las necesidades y el placer de los sentidos**
+
+[[Cita_MSCE_9.jpg|Ver cita]]
+
+> Es necesario que el poeta se dedique con calor y prodigalidad a **aumentar la potencia de la inteligencia colectiva y a reducir el tiempo de trabajo asalariado**.
+
+> Cantaremos a las masas que puedan finalmente liberarse de la esclavitud del trabajo asalariado, cantaremos a la solidaridad y a la revuelta contra la explotación. Cantaremos a la red infinita del conocimiento y de la invención, a la tecnología inmaterial que nos libera del cansancio físico. Cantaremos al cognitariado rebelde que se pone en contacto con su propio cuerpo. Cantaremos a la infinidad presente y no tendremos ya necesidad de futuro.
+
+[[Cita_MSCE_10.jpg|Ver cita]]
+
+#concepto El poeta contra el trabajo asalariado
