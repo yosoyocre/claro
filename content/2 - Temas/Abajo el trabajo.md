@@ -104,3 +104,6 @@ Oscar Wilde decía
 Según [[https://es.wikipedia.org/wiki/Modo_goblin|Wikipedia]]
 
 > Modo goblin es un neologismo que refiere aceptar la pereza y holgazanería, rechazando las expectativas sociales de una manera hedonista y nihilista sin preocuparse por la imagen de uno mismo
+
+---
+#todo Leer "El don de la siesta" de Miguel Ángel Hernández

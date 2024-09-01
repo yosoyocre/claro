@@ -230,3 +230,5 @@ Se explica en este vídeo de [[https://www.youtube.com/watch?v=EIzAzFlGu7E|12ton
 
 https://www.youtube.com/watch?v=Qjscg66TIQA
 
+---
+#todo Libro "Harmonic Experience" por W. A. Mathieu
