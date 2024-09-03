@@ -18,3 +18,5 @@ He decidido estructurar el trabajo para crear el disco del 2026 (todavía no tie
 [[1 - Discos/2026/6 - Vídeo]]
 
 [[7 - Videojuego]]
+
+[[8 - Promoción]]
