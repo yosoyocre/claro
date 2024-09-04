@@ -116,3 +116,6 @@ Usar un sample de esta canción de David Bellas
 ---
 Usar estas técnicas con el Vocoder para generar sonidos de plástico, látex y goma  
 https://www.youtube.com/watch?v=ws8yLOIkLms&t=495s
+
+---
+Grabar todo desde el móvil para reflejar su omnipresencia en nuestras vidas
