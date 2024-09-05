@@ -9,3 +9,7 @@ tags:
 
 La diferencia entre vivienda, casa y hogar es la **temperatura afectiva**
 vivienda < casa < hogar
+
+Cita de Ricardo Pinilla
+
+> Y **habitar**, asumido como reto inaplazable de todo ser humano, **es tarea de todos**, dejar habitar, hacer habitable, habitar las cosas; llegando a ser *habitantes del mundo* \[...\] haciendo de este mundo una digna y bella residencia de todos los hombres, del presente y de las generaciones futuras.
