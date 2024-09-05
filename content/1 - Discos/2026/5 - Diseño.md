@@ -23,3 +23,13 @@ O de vídeos
 ## Tipografía de e1000_
 
 ![[Tipografía e1000__.jpg]]
+
+## Tom Sachs
+
+Me mola la idea que tiene de construir cosas complejas a nivel de ingeniería utilizando materiales y técnicas de bricolaje, como si su trabajo fuese un hobby, una aproximación a lo real, un fracaso bonito.
+
+![[Tom_Sachs_1.jpg]]
+
+![[Tom_Sachs_2.jpg]]
+
+![[Tom_Sachs_3.webp]]
