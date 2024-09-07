@@ -54,3 +54,14 @@ Y de ahí me gusta el verbo “regalarse”
 
 ---
 ![[Utopías concretas]]
+
+---
+> Dormir mola porque no estás realmente muerto y no estás despierto, así que es un win-win
+>   
+> Es como estar muerto pero sin el compromiso 
+>   
+> Una relación abierta con la muerte
+>   
+> **Muerte con beneficios**
+
+[[Cita_Dormir.jpg|Ver cita]]

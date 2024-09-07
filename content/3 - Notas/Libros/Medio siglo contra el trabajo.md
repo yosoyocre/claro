@@ -121,3 +121,43 @@ tags:
 [[Cita_MSCE_18.jpg|Ver cita]]
 
 #concepto la fatiga de ser uno mismo
+
+> En otro tiempo, el riesgo era atribución de los capitalistas, que invertían sus capacidades y obtenían beneficios o fracasos dolorosos. Pero **el riego económico era su negocio**. Los demás oscilaban entre la miseria y el bienestar relativo, pero no eran estimulados a arriesgarse para tener más. Pero **hoy «todos somos capitalistas»**, como ordenaron los ideólogos reformistas, y por lo tanto todos tenemos que arriesgarnos. Las pensiones ya no se pagarán a cambio de un ahorro realizado durante la vida laboral, sino que deben vincularse a fondos de pensiones que pueden generar sumas de dinero o fracasar miserablemente dejándonos indigentes en la vejez. **La idea esencial es que considerar la vida como una empresa económica**, como una raza en la que hay quienes ganan y quien pierde.
+
+[[Cita_MSCE_19.jpg|Ver cita]]
+
+#concepto hoy todos somos capitalistas
+
+> Los modos de regulación y de dominio de la fuerza de trabajo se apoyan menos sobre la obediencia mecánica que sobre la iniciativa: responsabilidad, capacidad de evolucionar, de proponer proyectos, motivación, flexibilidad, etc., diseñan una nueva liturgia de mercado laboral. \[...\] Se trata menos de someter a los cuerpos que de movilizar los afectos y las capacidades mentales de cada asalariado.  
+> \[...\]  
+> Toda la clase dirigente de la economía global entró en un estado de constante euforia por psicoalteración. Las decisiones económicas de la clase global son un fiel reflejo de las sustancias que permiten a los responsables de la toma de decisiones ver solo el aspecto eufórico del mundo, e ignorar obstinadamente los efectos devastadores provocados por la euforia económica.
+>    
+> **Durante años, las decisiones esenciales fueron tomadas por personas que tenían sus neuronas saturadas de Zoloft y habían ingerido millones de comprimidos de Prozac.**
+
+[[Cita_MSCE_20.jpg|Ver cita]]
+
+> **La cobardía es ambivalente. En su inmediatez señala la conciencia hedonista de una superioridad del placer sobre el deber histórico**. Pero esta conciencia se concilia mal con las mitologías imperialistas y machistas que se encarnan en la trágica farsa fascista. 
+>   
+> Incapaz de aceptar la **«cobardía» como ternura**, incapaz de aceptar el predominio de lo femenino en la cultura mediterránea, la historia italiana está llena de personajes ridículos que asumen una tarea heroica e inevitablemente provocan tragedias de las que nunca se puede ocultar su aspecto ridículo.   
+>   
+> \[...\]  
+>   
+> **Solo en algunos momentos el autodesprecio se transforma en valorización positiva de la ternura, del abandono y de la pereza**: estos son los únicos momentos en los que la cultura italiana produce algo original, en que la feminidad mediterránea se resuelve en un disfrute colectivo de las potencialidades ya maduradas por la inteligencia productiva colectiva.
+
+[[Cita_MSCE_21.jpg|Ver cita]]
+
+#concepto cobardía como ternura
+
+> Desde aquí, el movimiento podrá arrancar de nuevo en Italia: desde **una declaración de debilidad absoluta, de abandono, de retirada. Retiremos nuestra inteligencia del concurso del crecimiento capitalista y de la identidad nacional, retiremos nuestra creatividad, nuestro tiempo de la competencia productivista. Comencemos una fase de sabotaje pasivo**, de vaciamiento de la ridícula envoltura que se llama Italia.
+
+[[Cita_MSCE_22.jpg|Ver cita]]
+
+#concepto declaración de debilidad absoluta, de abandono, de retirada
+#concepto fase de sabotaje pasivo
+
+> Contrariamente a la idea protestante de que el progreso está basado en la disciplina del trabajo, el espíritu antitrabajista autónomo afirma que **el progreso (tecnológico, cultural, social) está basado en el rechazo de la disciplina. El progreso consiste en la aplicación de la inteligencia a la reducción del trabajo duro** y de la dependencia, en la expansión de una esfera de pereza y de libertad individual.
+
+[[Cita_MSCE_23.jpg|Ver cita]]
+
+#concepto progreso por rechazo de disciplina
+#concepto progreso aplicando inteligencia a la reducción del trabajo duro

@@ -107,3 +107,6 @@ Según [[https://es.wikipedia.org/wiki/Modo_goblin|Wikipedia]]
 
 ---
 #todo Leer "El don de la siesta" de Miguel Ángel Hernández
+
+---
+#todo Leer algo de Lorenzo Valla y de su elogio de la cobardía y del hedonismo
