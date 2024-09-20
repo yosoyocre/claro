@@ -22,6 +22,8 @@ Ocre es Naíf
 
 
 El disco podría contar la historia de alguien que comienza jodido por su trabajo y en cada canción se va desprendiendo de él hasta que finalmente se libera y vive en libertad.
+
+El disco podría comenzar más ruidoso y noise e ir avanzando hacia el pop.
   
 Las canciones podrían unirse unas con otras, el final de una con el comienzo de otra.
 
