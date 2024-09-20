@@ -105,3 +105,9 @@ Antía tradujo una frase de Donatella Retore como "Como soy fascinante **hago ci
 
 ---
 ![[Aquí intemperies]]
+
+---
+Adaptación del chiste de Chiquito"
+
+- Papá, yo no quiero ir al trabajo
+- Pero si tienes 39 años y eres el director de la empresa!
