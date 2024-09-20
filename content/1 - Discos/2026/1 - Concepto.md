@@ -21,7 +21,7 @@ Ocre es Naíf
 [[Ética artificial]]
 
 
-El disco podría contar la historia de alguien que comienza jodido por su trabajo y en cada canción se va desprendiendo de él hasta que finalmente se libera y vive en libertad.
+El disco podría contar la historia de alguien que comienza jodido por su trabajo (o incluso antes del trabajo, con las expectativas y estándares que se crean) y en cada canción se va desprendiendo de él hasta que finalmente se libera y vive en libertad.
 
 El disco podría comenzar más ruidoso y noise e ir avanzando hacia el pop.
   
