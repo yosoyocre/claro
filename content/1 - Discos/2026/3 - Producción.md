@@ -124,4 +124,6 @@ Grabar todo desde el móvil para reflejar su omnipresencia en nuestras vidas
 Usar algún software de este vídeo, que muestra los que usaba Aphex Twin para hacer sus discos
 https://www.youtube.com/watch?v=5wIOBBodoic
 
-Podría estar bien que la música que haga usando un software tan viejo y poco accesible represente el dolor diario del enfrentarse al trabajo
+Podría estar bien que la música que haga usando un software tan viejo y poco accesible represente el dolor diario del enfrentarse al trabajo.
+  
+Como si quisiese capturar el malestar de tener que hacer algo que no te apetece hacer, obligado, sin razón aparente.
