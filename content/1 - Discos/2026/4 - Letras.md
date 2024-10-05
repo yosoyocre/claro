@@ -48,3 +48,7 @@ Herida repetitiva del espíritu
 ¿Dónde he guardado mis deseos?
 
 Vaya jeta
+
+Otra vez, otra vez, otra vez  
+Venga  
+(cada vez más gente se une al coro)
