@@ -38,3 +38,13 @@ ni placer.
 Puede ser que esta acrasia  
 no me esté sentando bien
 
+## Vaya jeta
+
+Herida repetitiva del espíritu (otra vez)
+Herida repetitiva del espíritu (venga, otra vez)
+Herida repetitiva del espíritu
+
+¿Dónde he dejado mis deseos?
+¿Dónde he guardado mis deseos?
+
+Vaya jeta
