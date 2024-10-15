@@ -52,3 +52,5 @@ Vaya jeta
 Otra vez, otra vez, otra vez  
 Venga  
 (cada vez más gente se une al coro)
+
+Triptófano ¿para qué?

@@ -232,3 +232,6 @@ https://www.youtube.com/watch?v=Qjscg66TIQA
 
 ---
 #todo Libro "Harmonic Experience" por W. A. Mathieu
+
+---
+Experimentar haciendo ritmos con alguna parte (por ej. los platos) un poco adelantados o un poco retrasados del ritmo general
