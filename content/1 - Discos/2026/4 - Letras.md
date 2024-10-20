@@ -54,3 +54,7 @@ Venga
 (cada vez más gente se une al coro)
 
 Triptófano ¿para qué?
+
+## Vaya tajo (Contacto con el curro)
+
+Preferiría no hacerlo pero...
