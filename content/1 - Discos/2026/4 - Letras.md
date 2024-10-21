@@ -65,3 +65,6 @@ Peter Pan eterno
 Josh Baskin / Tom Hanks en Big
 
 La adultez son los padres
+
+- Papá, yo no quiero ir al trabajo
+- Pero si tienes 40 años y eres el propietario de la empresa!
