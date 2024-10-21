@@ -33,3 +33,8 @@ Me mola la idea que tiene de construir cosas complejas a nivel de ingeniería ut
 ![[Tom_Sachs_2.jpg]]
 
 ![[Tom_Sachs_3.webp]]
+
+---
+Seguir estos pasos para conseguir un efecto de gradiente de ordenadores antiguos
+
+https://www.instagram.com/reel/DAujA_OMZfk/?igsh=bWI5bmNlZ2M4OXEz
