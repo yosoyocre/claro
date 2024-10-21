@@ -127,3 +127,7 @@ https://www.youtube.com/watch?v=5wIOBBodoic
 Podría estar bien que la música que haga usando un software tan viejo y poco accesible represente el dolor diario del enfrentarse al trabajo.
   
 Como si quisiese capturar el malestar de tener que hacer algo que no te apetece hacer, obligado, sin razón aparente.
+
+---
+Desmontar un plato de vinilo y usar la pastilla para leer vinilos pero mal, como hacen aquí
+https://youtu.be/S2B9Kc1-LAg?si=vst_F6b4hsZJczR0&t=1117
