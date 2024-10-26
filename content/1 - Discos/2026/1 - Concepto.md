@@ -6,7 +6,8 @@ tags:
 ---
 ## Posibles nombres
 
-Ocre es un Jeta  
+Ocre es un Jeta
+Ocre es Gandul
 Ocre es Hueco  
 Ocre es Vano  
 Ocre es Vacío  
