@@ -135,3 +135,7 @@ https://youtu.be/S2B9Kc1-LAg?si=vst_F6b4hsZJczR0&t=1117
 ---
 Probar a usar Matchering 2.0, herramienta gratuita para masterizar una canción a partir de otra similar
 https://youtu.be/wZRV2H4PK0Q?si=I-kxpsDZzcbTjCo2&t=1244
+
+---
+Usar esta técnica de quitar las consonantes sibilantes (ásperas) de los coros
+https://www.youtube.com/shorts/c5d7gN1SJYE
