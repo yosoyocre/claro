@@ -25,7 +25,7 @@ Lugar (Tensión) entre lo que es y lo que puede ser
 ahora que no hay nada que hacer?  
 No es descanso, (Es extraño)  
 ni placer. (no es placer)  
-Puede ser que esta acrasia  
+Puede ser que esta **acrasia**  
 no me esté sentando bien
 
 ¿Qué es esto que estoy sintiendo  
@@ -35,7 +35,7 @@ ahora que no hay nada que hacer?
   Ahora no hay que hacer)
 No es descanso,
 ni placer.
-Puede ser que esta acrasia  
+Puede ser que esta **acedia**  
 no me esté sentando bien
 
 ## Vaya jeta
