@@ -139,3 +139,7 @@ https://youtu.be/wZRV2H4PK0Q?si=I-kxpsDZzcbTjCo2&t=1244
 ---
 Usar esta técnica de quitar las consonantes sibilantes (ásperas) de los coros
 https://www.youtube.com/shorts/c5d7gN1SJYE
+
+---
+Colocar samples que suenen justo antes de otros samples de batería para crear una cierta anticipación y realismo
+https://www.youtube.com/watch?v=6K_4T19FB5w

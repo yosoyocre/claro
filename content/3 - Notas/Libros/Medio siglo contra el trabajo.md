@@ -70,7 +70,7 @@ tags:
 
 [[Cita_MSCE_12.jpg|Ver cita]]
 
-#conepto vínculo entre guerra y velocidad
+#concepto vínculo entre guerra y velocidad
 
 > ¿No deberíamos librarnos de la manía por el activismo que ha animado el siglo XX hasta la catástrofe de la guerra? ¿No deberíamos librarnos del intento cien veces repetido y cien veces fallido de actuar para liberar las energías humanas de la dominación del capital? ¿No estará quizás solo en **la retirada, en la inactividad, en el silencio, en el sabotaje pasivo**, el camino de la autonomía de lo social respecto de la movilización económica y militar?
 
