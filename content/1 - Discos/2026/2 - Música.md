@@ -235,3 +235,10 @@ https://www.youtube.com/watch?v=Qjscg66TIQA
 
 ---
 Experimentar haciendo ritmos con alguna parte (por ej. los platos) un poco adelantados o un poco retrasados del ritmo general
+
+---
+Usar el acorde Napolitano
+https://www.youtube.com/watch?v=cKpA16YjSKk
+
+Básicamente, 
+bII - V - i
