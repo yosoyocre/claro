@@ -242,3 +242,10 @@ https://www.youtube.com/watch?v=cKpA16YjSKk
 
 Básicamente, 
 bII - V - i
+
+---
+Hacer una melodía bajando un semitono de la tónica, como en "Over the rainbow"
+https://youtu.be/3PS2RNEdNRk?si=ag79a3cNjidakv9h&t=226
+
+En el vídeo dice que es un movimiento que emociona porque recuerda al sonido que hacemos cuando lloramos.  
+No sé si es muy cierto pero puedo utilizarlo como recurso melódico.
