@@ -161,3 +161,16 @@ tags:
 
 #concepto progreso por rechazo de disciplina
 #concepto progreso aplicando inteligencia a la reducción del trabajo duro
+
+> Desde el momento en que Nixon comunicó al mundo la decisión de desligar el dólar de todo vínculo de objetividad, el dinero se convirtió completamente en lo que ya era en esencia: **puro acto de lenguaje**
+
+[[Cita_MSCE_24.jpg|Ver cita]]
+
+#concepto dinero como acto de lenguaje
+
+> *Catástrofe* significa, en griego, un cambio de la posición que permite al observador ver cosas que no podía ver antes. La catástrofe abre nuevos espacios de visibilidad y de posibilidad, pero implica también un cambio de paradigma. El pleno empleo se acabó. El mundo no tiene necesidad de tanto trabajo, de tanta explotación. La renta de ciudadanía deberá afirmarse como derecho a la vida independiente del empleo y de la prestación de tiempo de trabajo. Las zonas autónomas *NO* temporales organizarán la actividad social bajo la forma de ayuda colectiva recíproca.
+
+[[Cita_MSCE_25.jpg|Ver cita]]
+
+#concepto catástrofe
+#concepto el mundo no necesita tanto trabajo
