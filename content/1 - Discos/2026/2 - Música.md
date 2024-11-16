@@ -249,3 +249,7 @@ https://youtu.be/3PS2RNEdNRk?si=ag79a3cNjidakv9h&t=226
 
 En el vídeo dice que es un movimiento que emociona porque recuerda al sonido que hacemos cuando lloramos.  
 No sé si es muy cierto pero puedo utilizarlo como recurso melódico.
+
+---
+Hacer un cambio de tonalidad hacia abajo, en lugar de hacia arriba, como hacen Toto
+https://youtu.be/ERQ48AJvGKc?si=MFpBly8EUGHQKe0A&t=403
