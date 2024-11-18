@@ -24,3 +24,4 @@ Hacer streamings, en los que podría:
 - Probar elementos de producción que he anotado
 - Charlas con Artur sobre producción musical, como en Dead Wax
 - Preguntarle cosas de música o de producción a ChatGPT y probarlas
+- Programar mis propios efectos en PlugData a partir de sus definiciones en Wikipedia, con la idea de hacerlo mal
