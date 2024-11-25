@@ -25,3 +25,5 @@ Hacer streamings, en los que podría:
 - Charlas con Artur sobre producción musical, como en Dead Wax
 - Preguntarle cosas de música o de producción a ChatGPT y probarlas
 - Programar mis propios efectos en PlugData a partir de sus definiciones en Wikipedia, con la idea de hacerlo mal
+
+Para la estética, me gustaría tomar como referencia Inside de Bo Burnham
