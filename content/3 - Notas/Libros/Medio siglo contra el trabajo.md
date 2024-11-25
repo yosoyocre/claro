@@ -174,3 +174,9 @@ tags:
 
 #concepto catástrofe
 #concepto el mundo no necesita tanto trabajo
+
+**\[L\]a vida social no tiene ya necesidad de trabajo industrial**. El mito del crecimiento será abandonado y la gente buscará nuevas formas de distribución de la riqueza. Las comunidades singulares cambiarán la percepción misma del bienestar y de la riqueza en el sentido de la frugalidad y de la libertad del tiempo. La revolución cultural que necesitamos en esta transición conduce de la percepción de la riqueza como propiedad privada de bienes que no podemos disfrutar, porque no tenemos el tiempo de hacerlo, a la **percepción de la riqueza como disfrute de una cantidad de bienes que serán tanto más útiles y abundantes cuanto más podamos compartirlos con los demás**. La desprivatización de los servicios y los bienes se volverá posible por esta urgente revolución cultural. Esto no sucederá de modo planificado y uniforme, sino que más bien será el efecto de la sustracción de singularidades individuales y comunitarias, y de **la creación de una economía del uso compartido de bienes comunes, y de la liberación del tiempo para la cultura, el placer y el afecto.**
+
+[[Cita_MSCE_26.jpg|Ver cita]]
+
+#concepto riqueza como disfrute de bienes que compartimos
