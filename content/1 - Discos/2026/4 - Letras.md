@@ -60,9 +60,9 @@ Triptófano ¿para qué?
 Preferiría no hacerlo pero...
 Mañana será mejor
 
-Mamá, quiero ser notario
-Peter Pan eterno
-Josh Baskin / Tom Hanks en Big
+Mamá, quiero ser notario  
+Peter Pan eterno  
+Tom Hanks en Big
 
 La adultez son los padres
 
@@ -71,7 +71,7 @@ La adultez son los padres
 
 ## Fatiga
 
-Fatiga
-La vida
-Látigo
+Fatiga  
+La vida  
+Látigo  
 Ortiga
