@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠👍 Cerebro bien",
+    pageTitle: "Cerebro bien 🧠👍",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -27,14 +27,15 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        /* Paleta: #0b0a07, #eee, #5e5d5c, #1934ba, #fc9f5b, #33ca7f, #f72585, #ffffff */
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#ffffff",
+          lightgray: "#eee",
+          gray: "#fc9f5b",
+          darkgray: "#0b0a07",
+          dark: "#f72585",
+          secondary: "#1934ba",
+          tertiary: "#33ca7f",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },

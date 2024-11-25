@@ -76,7 +76,7 @@ tags:
 
 [[Cita_MSCE_13.jpg|Ver cita]]
 
-#cocepto retirada, inactividad, silencio y sabotaje
+#concepto retirada, inactividad, silencio y sabotaje
 
 > Los objetos que \[la modernidad disruptiva\] enfatiza y que transforma en valores estéticos y políticos son **la máquina, la velocidad, la violencia, la guerra**.
 > \[...\]  

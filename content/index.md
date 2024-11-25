@@ -3,6 +3,8 @@ title: Hola, yo soy Ocre...
 draft: false
 tags:
 ---
+![[ocre-debil_promocion_5.png]]
+
 ... y actualmente estoy trabajando en un disco que, si todo sale bien, saldrá en 2026.
 
 Esta web me sirve para recopilar todo lo que voy encontrando que me resulta interesante para crearlo. 
