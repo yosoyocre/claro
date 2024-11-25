@@ -175,8 +175,25 @@ tags:
 #concepto catástrofe
 #concepto el mundo no necesita tanto trabajo
 
-**\[L\]a vida social no tiene ya necesidad de trabajo industrial**. El mito del crecimiento será abandonado y la gente buscará nuevas formas de distribución de la riqueza. Las comunidades singulares cambiarán la percepción misma del bienestar y de la riqueza en el sentido de la frugalidad y de la libertad del tiempo. La revolución cultural que necesitamos en esta transición conduce de la percepción de la riqueza como propiedad privada de bienes que no podemos disfrutar, porque no tenemos el tiempo de hacerlo, a la **percepción de la riqueza como disfrute de una cantidad de bienes que serán tanto más útiles y abundantes cuanto más podamos compartirlos con los demás**. La desprivatización de los servicios y los bienes se volverá posible por esta urgente revolución cultural. Esto no sucederá de modo planificado y uniforme, sino que más bien será el efecto de la sustracción de singularidades individuales y comunitarias, y de **la creación de una economía del uso compartido de bienes comunes, y de la liberación del tiempo para la cultura, el placer y el afecto.**
+> **\[L\]a vida social no tiene ya necesidad de trabajo industrial**. El mito del crecimiento será abandonado y la gente buscará nuevas formas de distribución de la riqueza. Las comunidades singulares cambiarán la percepción misma del bienestar y de la riqueza en el sentido de la frugalidad y de la libertad del tiempo. La revolución cultural que necesitamos en esta transición conduce de la percepción de la riqueza como propiedad privada de bienes que no podemos disfrutar, porque no tenemos el tiempo de hacerlo, a la **percepción de la riqueza como disfrute de una cantidad de bienes que serán tanto más útiles y abundantes cuanto más podamos compartirlos con los demás**. La desprivatización de los servicios y los bienes se volverá posible por esta urgente revolución cultural. Esto no sucederá de modo planificado y uniforme, sino que más bien será el efecto de la sustracción de singularidades individuales y comunitarias, y de **la creación de una economía del uso compartido de bienes comunes, y de la liberación del tiempo para la cultura, el placer y el afecto.**
 
 [[Cita_MSCE_26.jpg|Ver cita]]
 
 #concepto riqueza como disfrute de bienes que compartimos
+
+> El pensamiento rizomático elige en cambio la lógica de la conjunción:
+>
+> Un rizoma no empieza ni acaba, siempre está en el medio, entre las cosas, inter-ser, *intermezzo*. El árbol es filiación, pero el rizoma \[es alianza, únicamente alianza. El árbol impone el verbo «ser», pero el rizoma\] tiene como tejido la conjunción «y… y… y». En esta conjunción hay fuerza suficiente para sacudir y desenraizar el verbo ser, **instaurar una lógica del Y**, derribar la ontología, destituir el fundamento, **anular fin y comienzo.**
+> 
+> A diferencia de Castoriadis y sus amigos, deberíamos decir entonces: **«Socialismo y barbarie».**
+> 
+> El problema es cuán amplio será el campo de la barbarie y cuán amplio será el de la humanidad.
+> 
+> En esto consiste nuestra actual tarea política e intelectual. En una carta a Freud, su joven discípulo Fliess le preguntaba: «Maestro, ¿cuándo puede considerarse un análisis concluido, cuándo puede considerarse curada a la persona que está haciendo análisis?».
+> 
+> El viejo Freud, que no era tonto, le responde que **un análisis se puede considerar concluido cuando la persona que está frente a uno ha entendido que el análisis es interminable.**
+
+[[Cita_MSCE_27.jpg|Ver cita]]
+
+#concepto la lógica del Y  
+#concepto análisis interminable
