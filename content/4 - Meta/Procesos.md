@@ -5,7 +5,11 @@ tags:
 ---
 ## Pasar imágenes a texto
 
-Por ahora, la mejor forma que he encontrado es pasarle la imagen a **ChatGPT** y pedirle que la transcriba. Funciona muy bien.
+Por ahora, la mejor forma que he encontrado es pasarle la imagen a **ChatGPT** y pedirle que la transcriba de la siguiente forma:
+
+> Transcribe lo que pone la siguiente imagen como una cita en markdown, manteniendo las itálicas y convirtiendo lo subrayado a negrita
+
+Así solo tengo que copiar y pegar el texto en el documento de Obsidian y funciona muy bien.
 
 También usé un OCR de la aplicación web OCR2EDIT:
 
