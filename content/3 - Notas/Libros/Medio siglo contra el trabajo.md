@@ -204,3 +204,24 @@ tags:
 
 #concepto potencia tecnológica ultradestructiva y fragilidad psíquica
 #concepto generación videoelectrónica
+
+> **Para poder percibir al otro como cuerpo sensible es necesario tiempo, necesitamos tiempo para las caricias y el olfato.**
+> 
+> \[...\]
+> 
+> La generación videoelectrónica no tolera el vello axilar y el vello púbico. Para que las superficies corporales puedan interactuar en conexión se precisa una compatibilidad perfecta. Liberarse de los pelos superfluos. **Generación glabra, lampiña.** La conjunción encuentra su camino a través de los vellos y las imperfecciones del intercambio.
+
+[[Cita_MSCE_29.jpg|Ver cita]]
+
+#concepto tiempo para caricias y olfato
+#concepto generación glabra, lampiña
+
+> Los periodistas que se ocupan del problema del comportamiento de los jóvenes hablan de _«bullying»_ y usan la metáfora de la _«manada»_ para referirse a actos de violencia o atropello en los que el grupo de jóvenes parece moverse de una manera conformista porque cada participante funda su identidad en el reconocimiento de pertenencia al grupo. Pero no usaría la expresión _«manada»_, que me parece innecesariamente moralista. Prefiero pensar en el **enjambre** en lugar de la manada, porque esto permite **entender la socialización como efecto de un automatismo cognitivo** en lugar de como efecto de valores o disvalores de orden moral.
+
+[[Cita_MSCE_30.jpg|Ver cita]]
+
+#concepto enjambre como automatismo cognitivo
+
+
+
+[[Cita_MSCE_31.jpg|Ver cita]]]

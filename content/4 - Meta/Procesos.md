@@ -7,7 +7,7 @@ tags:
 
 Por ahora, la mejor forma que he encontrado es pasarle la imagen a **ChatGPT** y pedirle que la transcriba de la siguiente forma:
 
-> Transcribe lo que pone la siguiente imagen como una cita en markdown, manteniendo las itálicas y convirtiendo lo subrayado a negrita
+> Transcribe lo que pone la siguiente imagen como una cita en markdown, manteniendo las itálicas y convirtiendo lo subrayado a negrita. No crees ningún texto introductorio; simplemente escribe la transcripción.
 
 Así solo tengo que copiar y pegar el texto en el documento de Obsidian y funciona muy bien.
 
