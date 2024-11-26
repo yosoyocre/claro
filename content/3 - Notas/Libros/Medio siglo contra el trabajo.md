@@ -200,5 +200,7 @@ tags:
 
 > Michael Moore ha dedicado a ese evento una apasionante película de visión social (_Bowling for Columbine_), en la que narra lo que se ve a simple vista, la venta de armas y la agresividad que se alimenta del miedo. Pero en su película _Elephant_, Gus Van Sant interroga el episodio desde otro punto de vista, más profundo, más implacable y, por lo tanto, más inquietante. **¿Qué sucedió y qué está ocurriendo en la mente de la generación que a caballo del milenio se está volviendo adulta?** ¿Qué significa y adónde puede llevar su fragilidad psíquica, que se conjuga con una espantosa potencia tecnológica y destructiva? **Potencia tecnológica ultradestructiva y fragilidad psíquica son la mezcla que define a la primera generación videoelectrónica**, especialmente en su versión norteamericana.
 
+[[Cita_MSCE_28.jpg|Ver cita]]
+
 #concepto potencia tecnológica ultradestructiva y fragilidad psíquica
 #concepto generación videoelectrónica
