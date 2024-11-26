@@ -222,6 +222,16 @@ tags:
 
 #concepto enjambre como automatismo cognitivo
 
+> **El sabio es aquel que sabe, aquel que produce saber y lo pone en circulación en el proceso productivo global de nuestro tiempo**, el trabajador cognitivo que intercambia su trabajo de conocimiento con el salario, y finalmente reconoce lo intolerable que es el uso que el mercader y el guerrero hacen de su saber y la miseria de su propia vida. Peso el sabio también es el que sabe estar fuera del tiempo límite: sabe que las tendencias actuales creadas por la simbiosis con el mercader y el guerrero son imparables. Sin embargo, el sabio también es algo más: es quien sabe que **«el no-saber juzga al saber»** (como dice Bataille en *La experiencia interior*).  
+> 
+> **El no-saber es lo imprevisto, lo que aún no sabemos, lo que podría transformar el universo del saber** según la perspectiva de un paradigma ya no subordinado a la acumulación y a la guerra. 
+> 
+> \[...\]
+> 
+> \[E\]s bueno recordar que el sabio es el amigo. Y **la amistad tiene algo que ver con el caos**
 
+[[Cita_MSCE_31.jpg|Ver cita]]
 
-[[Cita_MSCE_31.jpg|Ver cita]]]
+#concepto el sabio, el mercader y el guerrero
+#concepto el no-saber juzga al saber
+#concepto amistad y caos

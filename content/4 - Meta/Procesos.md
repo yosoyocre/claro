@@ -3,6 +3,10 @@ title: Procesos
 draft: false
 tags:
 ---
+## Escribir comillas angulares o españolas
+
+Para escribir « y », la combinación de teclas es "Alt Gr + z" y "Alt Gr + x", respectivamente
+
 ## Pasar imágenes a texto
 
 Por ahora, la mejor forma que he encontrado es pasarle la imagen a **ChatGPT** y pedirle que la transcriba de la siguiente forma:
