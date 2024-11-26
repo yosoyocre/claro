@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "yosoyocre.github.io/cerebro_bien",
+    baseUrl: "claro.ocre.soy",
     ignorePatterns: ["private", "templates", ".obsidian", "Plantillas"],
     defaultDateType: "created",
     theme: {
