@@ -27,3 +27,6 @@ Hacer streamings, en los que podría:
 - Programar mis propios efectos en PlugData a partir de sus definiciones en Wikipedia, con la idea de hacerlo mal
 
 Para la estética, me gustaría tomar como referencia Inside de Bo Burnham
+
+---
+Podría montar un Patreon con un máximo de dinero que puedo recaudar. Este máximo podría ser una idea de sueldo mensual calculado a partir de los gastos de un ciudadano medio y um cierto margen para el ahorro
