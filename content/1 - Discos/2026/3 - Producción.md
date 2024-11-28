@@ -143,3 +143,8 @@ https://www.youtube.com/shorts/c5d7gN1SJYE
 ---
 Colocar samples que suenen justo antes de otros samples de batería para crear una cierta anticipación y realismo
 https://www.youtube.com/watch?v=6K_4T19FB5w
+
+---
+Probar esta técnica para crear sintes potentes, repartiendo las frecuencias entre varios sintes distintos.  
+También es interesante el efecto que se consigue al mapear un Envelope MIDI a Dry/Wet de la Reverb.
+https://www.youtube.com/watch?v=Q2rm46nBlWY
