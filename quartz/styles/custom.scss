@@ -12,15 +12,24 @@
 
 }
 
-.folder-outer {
+#explorer-content {
 
-    li {
-      margin-bottom: 8px;
+    ul {
 
-      & :last-child {
-          margin-bottom: 0;
-      }
+        li {
+
+            a {
+                display: block;
+                margin-bottom: 8px;
+            }
+
+            &:last-child {
+
+                a {
+                    margin-bottom: 0;
+                }
+            }
+        }
+
     }
-
-
 }
