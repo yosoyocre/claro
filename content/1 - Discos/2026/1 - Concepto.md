@@ -104,3 +104,7 @@ El AntiAtila
 "donde mi caballo pisa crecerá la hierba"
 
 Contra los Atilas del mundo moderno
+
+---
+#concepto copifobia. 
+Miedo a farigarse
