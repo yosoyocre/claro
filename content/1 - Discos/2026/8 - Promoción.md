@@ -34,6 +34,6 @@ Podría montar un Patreon con un máximo de dinero que puedo recaudar. Este máx
 ---
 Preparar un email usando técnicas de Spam clásicos (como si fuese un banco o Amazon) para promocionar mi música.
 
-No tiene que salir bien porque puede ser solo una campaña de IG
+No tiene que salir bien porque puede ser solo una campaña de IG. Incluso puedo compartirlo como si fuese un mail que me llegó a mí y que estoy indignado.
 
 Preparar una landing que explique todo
