@@ -30,3 +30,10 @@ Para la estética, me gustaría tomar como referencia Inside de Bo Burnham
 
 ---
 Podría montar un Patreon con un máximo de dinero que puedo recaudar. Este máximo podría ser una idea de sueldo mensual calculado a partir de los gastos de un ciudadano medio y um cierto margen para el ahorro
+
+---
+Preparar un email usando técnicas de Spam clásicos (como si fuese un banco o Amazon) para promocionar mi música.
+
+No tiene que salir bien porque puede ser solo una campaña de IG
+
+Preparar una landing que explique todo
