@@ -6,4 +6,4 @@ tags:
 
 EN CONSTRUCCIÓN
 
-Explicar cuáles son las rutinas diarias que quiero complir
+Explicar cuáles son las rutinas diarias que quiero cumplir
