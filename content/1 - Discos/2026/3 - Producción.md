@@ -155,3 +155,11 @@ https://www.youtube.com/watch?v=CbXdCbEbJcA
 
 Concretamente, me mola que hay uno de ellos, ToTape8, que, aparte de ser gratuito, es de código abierto y puedo coger cosas para hacer los míos  
 https://github.com/airwindows/airwindows/tree/master
+
+---
+Probar Soothe para ecualizar cosas. Según Jacob Collier, elimina las partes feas de los medios y agudos  
+https://oeksound.com/plugins/soothe2/
+
+---
+Probar Neutron para ecualizar voces. También recomendado por Jacob Collier  
+https://www.izotope.com/en/products/neutron.html
