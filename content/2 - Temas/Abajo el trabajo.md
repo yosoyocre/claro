@@ -110,3 +110,6 @@ Según [[https://es.wikipedia.org/wiki/Modo_goblin|Wikipedia]]
 
 ---
 #todo Leer algo de Lorenzo Valla y de su elogio de la cobardía y del hedonismo
+
+---
+![[Lo neutro]]
