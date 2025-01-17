@@ -53,7 +53,9 @@ Otra vez, otra vez, otra vez
 Venga  
 (cada vez más gente se une al coro)
 
-Triptófano ¿para qué?
+Triptófano ¿para qué?  
+
+¡Tiempo muerto!
 
 ## Vaya tajo (Contacto con el curro)
 
