@@ -163,3 +163,12 @@ https://oeksound.com/plugins/soothe2/
 ---
 Probar Neutron para ecualizar voces. También recomendado por Jacob Collier  
 https://www.izotope.com/en/products/neutron.html
+
+---
+Explorar el concepto de Plunderphonics
+https://en.wikipedia.org/wiki/Plunderphonics
+Concretamente, el disco Grayfolded:
+
+> is a two-CD album produced by John Oswald featuring new edits and re-mixes of the Grateful Dead song "Dark Star". Oswald used a process he calls "plunderphonics" to edit fragments of over a hundred different performances of the song, recorded live between 1968 and 1993, to produce two new versions of the song each lasting about an hour. 
+
+https://en.wikipedia.org/wiki/Grayfolded
