@@ -172,3 +172,5 @@ Concretamente, el disco Grayfolded:
 > is a two-CD album produced by John Oswald featuring new edits and re-mixes of the Grateful Dead song "Dark Star". Oswald used a process he calls "plunderphonics" to edit fragments of over a hundred different performances of the song, recorded live between 1968 and 1993, to produce two new versions of the song each lasting about an hour. 
 
 https://en.wikipedia.org/wiki/Grayfolded
+
+Podría hacer eso mismo con mis propios samples, de canciones grabadas o nuevos que haga.
