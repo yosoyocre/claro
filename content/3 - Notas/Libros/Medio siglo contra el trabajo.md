@@ -263,7 +263,3 @@ tags:
 
 #concepto infelicidad como estimulante para el consumo
 #concepto una humanidad feliz no se dejaría atrapar por la productividad
-
-
-
-[[Cita_MSCE_35.jpg|Ver cita]]
