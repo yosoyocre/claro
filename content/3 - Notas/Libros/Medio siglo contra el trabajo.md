@@ -235,3 +235,10 @@ tags:
 #concepto el sabio, el mercader y el guerrero
 #concepto el no-saber juzga al saber
 #concepto amistad y caos
+
+> **Y el terror nace** \[...] **de la competitividad cruel e ininterrumpida que el principio _mors tua vita mea_ (Tu muerte \[es] mi vida) ha inoculado durante mucho tiempo en la mente de cada individuo.**  \[...] **El rechazo del trabajo induce el movimiento evolutivo de la inteligencia. La inteligencia es rechazo del trabajo que se realiza en una forma socialmente útil.** 
+
+[[Cita_MSCE_32.jpg|Ver cita]]
+
+#concepto mors tua vita meta
+#concepto la inteligencia es rechazo del trabajo
