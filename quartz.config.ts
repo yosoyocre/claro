@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "claro.ocre.soy",
     ignorePatterns: ["private", "templates", ".obsidian", "Plantillas"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
