@@ -242,3 +242,28 @@ tags:
 
 #concepto mors tua vita meta
 #concepto la inteligencia es rechazo del trabajo
+
+> \[...] está basado en un soporte orgánico (el cerebro-cuerpo humano) que tiene tiempos de evolución que son completamente diferentes de los tiempos de evolución de las máquinas.
+> 
+> Se ha producido lo que podría definirse como una discrasia paradigmática, una brecha entre el paradigma que modela el universo de transmisores y el paradigma que modela el universo de los receptores. En una situación como esta, la comunicación se vuelve un proceso asimétrico, perturbado. **Podríamos hablar en tal sentido de una discrepancia entre ciberespacio —en expansión ilimitada y constante— y cibertiempo.** 
+> 
+> El ciberespacio es una red que incluye componentes maquínicos y componentes orgánicos cuya capacidad de elaboración puede ser acelerada sin límites, mientras que **el cibertiempo es una realidad esencialmente vivida, vinculada a un soporte orgánico (el cuerpo y el cerebro humano), cuyos tiempos de elaboración no pueden ser acelerados más allá de límites naturales relativamente rígidos.**
+
+[[Cita_MSCE_33.jpg|Ver cita]]
+
+#concepto ciberespacio vs. cibertiempo
+
+> En general, **la infelicidad funciona como un estimulante para el consumo**: comprar es una suspensión de la angustia, un antídoto contra la soledad, **pero hasta cierto punto. Más allá de ese punto, el sufrimiento se vuelve un factor de desmotivación para el consumo.** Aquí pues, se elaboran estrategias de contraste. Los amos del mundo ciertamente no quieren que la humanidad sea feliz, porque **una humanidad feliz no se dejaría atrapar por la productividad, por la disciplina en el trabajo ni por los imperativos de los dioses.** Sin embargo, **se estudian técnicas útiles para hacer que la infelicidad sea moderada y tolerable, para posponer o impedir la explosión suicida, para alentar el consumo.**  
+> 
+> \[...]  
+> 
+> \[E]s posible una estrategia de sustracción, de alejamiento del vórtice, pero se trata de una estrategia que solo pueden seguir pequeñas comunidades, constituyendo esferas de autonomía existencial, económica, informativa con respecto de la economía-mundo.
+
+[[Cita_MSCE_34.jpg|Ver cita]]
+
+#concepto infelicidad como estimulante para el consumo
+#concepto una humanidad feliz no se dejaría atrapar por la productividad
+
+
+
+[[Cita_MSCE_35.jpg|Ver cita]]
