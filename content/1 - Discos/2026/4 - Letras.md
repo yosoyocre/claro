@@ -80,4 +80,4 @@ Ortiga
 
 ## Después
 
-(La última canción podrían ser sonidos ambientes, pájaros, respiración... algo que evoque la vida contemplativa. Además, va bien con el concepto de ser un jeta, te cuelo silencio como canción).
+(La última canción podrían ser sonidos ambientes, pájaros, respiración... algo que evoque la vida contemplativa. Además, va bien con el concepto de ser un jeta, te cuelo silencio como canción. También podría ser una instrumental sencilla).
