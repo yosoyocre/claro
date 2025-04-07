@@ -174,3 +174,13 @@ Concretamente, el disco Grayfolded:
 https://en.wikipedia.org/wiki/Grayfolded
 
 Podría hacer eso mismo con mis propios samples, de canciones grabadas o nuevos que haga.
+
+---
+Intentar esta técnica para crear "instrumentos falsos" a partir de samples de los reales
+
+https://www.youtube.com/watch?v=xhj81xX9CLM
+
+---
+Usar esta técnica que combina un piano con un sidechain, de forma que cuando la nota del piano deje de sonar, entre otra textura, que desaparece en la siguiente nota.
+
+https://youtu.be/LGeGMrXIs1Y?si=vQ_C2d7XGkLt7BgV&t=421
