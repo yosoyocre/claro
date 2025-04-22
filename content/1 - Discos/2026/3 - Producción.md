@@ -184,3 +184,9 @@ https://www.youtube.com/watch?v=xhj81xX9CLM
 Usar esta técnica que combina un piano con un sidechain, de forma que cuando la nota del piano deje de sonar, entre otra textura, que desaparece en la siguiente nota.
 
 https://youtu.be/LGeGMrXIs1Y?si=vQ_C2d7XGkLt7BgV&t=421
+
+---
+Contratar https://possessmypiano.com/ para que un robot ejecute y grabe mi MIDI en un piano muy bueno.
+
+Me gusta cómo suena cuando se lleva a sus límites: 
+https://youtu.be/VvCHIz--0EE?si=QeVplTAJD9x-C_Vs&t=123
