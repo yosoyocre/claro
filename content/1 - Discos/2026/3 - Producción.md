@@ -190,3 +190,13 @@ Contratar https://possessmypiano.com/ para que un robot ejecute y grabe mi MIDI 
 
 Me gusta cómo suena cuando se lleva a sus límites: 
 https://youtu.be/VvCHIz--0EE?si=QeVplTAJD9x-C_Vs&t=123
+
+---
+Usar transformadas de Fourier para construir dos sonidos distintos con sinusoidales para luego ir eliminándolas y, después, añadiéndolas para hacer un fade-out/fade-in muy chulo
+
+https://youtu.be/VvCHIz--0EE?si=5GLf93wLlEOaiYJM&t=280
+
+---
+Tocar el piano acústico con pinzas para el pelo
+
+https://www.youtube.com/watch?v=bp84uZGOOiI
