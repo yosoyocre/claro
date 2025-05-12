@@ -34,7 +34,11 @@ Me mola la idea que tiene de construir cosas complejas a nivel de ingeniería ut
 
 ![[Tom_Sachs_3.webp]]
 
----
+## Internet en los 90
+
+Molaba explorar la estética de las páginas de GeoCities de los 90 / 00s, la paleta de 256 colores, Windows 98, etc.
+
 Seguir estos pasos para conseguir un efecto de gradiente de ordenadores antiguos
 
 https://www.instagram.com/reel/DAujA_OMZfk/?igsh=bWI5bmNlZ2M4OXEz
+
