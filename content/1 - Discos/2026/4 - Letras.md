@@ -38,6 +38,8 @@ ni placer.
 Puede ser que esta **acedia**  
 no me esté sentando bien
 
+¿Qué es eso del cibertiempo
+que dices que hay que recuperar?
 ## Vaya jeta
 
 Herida repetitiva del espíritu (otra vez)  
