@@ -200,3 +200,8 @@ https://youtu.be/VvCHIz--0EE?si=5GLf93wLlEOaiYJM&t=280
 Tocar el piano acústico con pinzas para el pelo
 
 https://www.youtube.com/watch?v=bp84uZGOOiI
+
+---
+Consejos de Artur
+https://www.youtube.com/watch?v=jpnu2BTAy9s
+https://maxforlive.com/library/device/9429/boba

@@ -80,6 +80,15 @@ La vida
 Látigo  
 Ortiga
 
+## Ruptura
+(Canción sobre dejar una relación tóxica con el Capitalismo)
+...
+todo lo que me das
+me lo quitarás luego
+en este juego
+en el que no puedo
+ganar
+...
 ## Después
 
 (La última canción podrían ser sonidos ambientes, pájaros, respiración... algo que evoque la vida contemplativa. Además, va bien con el concepto de ser un jeta, te cuelo silencio como canción. También podría ser una instrumental sencilla).
