@@ -82,13 +82,32 @@ Ortiga
 
 ## Ruptura
 (Canción sobre dejar una relación tóxica con el Capitalismo)
-...
-todo lo que me das
+Esto se acaba aquí
+y así
+entiéndelo
+porque yo no te comprendo.
+Todo lo que me das
 me lo quitarás luego
 en este juego
-en el que no puedo
+en el que no puedo/quiero
 ganar
-...
+jamás
+
+Ese amor que me das
+no lo quiero
+ya lo veo
+tus abrazos y tus besos
+tienen otra intención
+que está clara ahora
+de robar mi atención
+que no
+deje de mirar para ti
+solo a ti
+
+No sé si podré
+No lo sé
 ## Después
 
 (La última canción podrían ser sonidos ambientes, pájaros, respiración... algo que evoque la vida contemplativa. Además, va bien con el concepto de ser un jeta, te cuelo silencio como canción. También podría ser una instrumental sencilla).
+
+Soy horizontal pero me obligan a ser vertical

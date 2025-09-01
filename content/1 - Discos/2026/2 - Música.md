@@ -253,3 +253,10 @@ No sé si es muy cierto pero puedo utilizarlo como recurso melódico.
 ---
 Hacer un cambio de tonalidad hacia abajo, en lugar de hacia arriba, como hacen Toto
 https://youtu.be/ERQ48AJvGKc?si=MFpBly8EUGHQKe0A&t=403
+
+---
+Hacer canción en 5/4 pero con el ritmo de Take Five o de River Man, que pone el acento entre el golpe 2 y el 3, para que parezca un 4/4
+https://www.youtube.com/watch?v=fBdbRoSrWr4
+
+---
+Hacer una canción con samples de canciones de grupos gallegos

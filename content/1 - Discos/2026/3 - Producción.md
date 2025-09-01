@@ -205,3 +205,18 @@ https://www.youtube.com/watch?v=bp84uZGOOiI
 Consejos de Artur
 https://www.youtube.com/watch?v=jpnu2BTAy9s
 https://maxforlive.com/library/device/9429/boba
+
+---
+Usar mucho el comping (escoger las partes que mejor suenan de distintas grabaciones de una misma interpretación) para poder interpretar algo con más riesgos, sabiendo que igual hay una parte que se puede aprovechar. A veces, uno piensa que la ha cagado y luego vuelve a la grabación y ve que es una muy buena parte.
+
+https://youtu.be/tJJRiKl1OqI?si=XV63ygepfxKO68Nz&t=1345
+
+---
+Grabar todos los instrumentos, incluida la voz, de una canción con micros de contacto
+
+https://youtu.be/RQ4DaIUYkg4?si=QeNBYrkzaYl5o8hO&t=696
+
+---
+Probar esta técnica de convolución
+
+https://youtu.be/o_mtxBpX_K4?si=xn9sfzRrKi74I1XA
