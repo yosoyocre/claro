@@ -220,3 +220,8 @@ https://youtu.be/RQ4DaIUYkg4?si=QeNBYrkzaYl5o8hO&t=696
 Probar esta técnica de convolución
 
 https://youtu.be/o_mtxBpX_K4?si=xn9sfzRrKi74I1XA
+
+---
+Usar synplant para generar sintentizadores FM a partir de samples
+
+https://soniccharge.com/synplant
