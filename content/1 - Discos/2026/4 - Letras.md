@@ -73,6 +73,9 @@ La adultez son los padres
 - Papá, yo no quiero ir al trabajo
 - Pero si tienes 40 años y eres el director de la empresa!
 
+Vida en remojo
+Todo se resuelve sin esfuerzo
+
 ## Fatiga
 
 Fatiga  
