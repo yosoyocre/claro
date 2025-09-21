@@ -225,3 +225,6 @@ https://youtu.be/o_mtxBpX_K4?si=xn9sfzRrKi74I1XA
 Usar synplant para generar sintentizadores FM a partir de samples
 
 https://soniccharge.com/synplant
+
+---
+En "Fatiga" usar la técnica de Artur de preparar varios samples con ruidos, exagerando la frecuencia 440, y colocarlas en todas las zonas de un Sampler con probabilidad random, de forma que cada vez que toque una tecla suene un sample pero siempre afinado.
