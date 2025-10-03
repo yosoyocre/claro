@@ -228,3 +228,8 @@ https://soniccharge.com/synplant
 
 ---
 En "Fatiga" usar la técnica de Artur de preparar varios samples con ruidos, exagerando la frecuencia 440, y colocarlas en todas las zonas de un Sampler con probabilidad random, de forma que cada vez que toque una tecla suene un sample pero siempre afinado.
+
+---
+Se me ocurre que se podría conseguir un efecto de delay grabando 3 veces una voz y desplazándolas el mismo intervalo.
+
+¿Conseguiríamos un efecto distinto al delay clásico, porque son pistas distintas?
