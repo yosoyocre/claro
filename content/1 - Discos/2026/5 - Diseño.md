@@ -42,3 +42,9 @@ Seguir estos pasos para conseguir un efecto de gradiente de ordenadores antiguos
 
 https://www.instagram.com/reel/DAujA_OMZfk/?igsh=bWI5bmNlZ2M4OXEz
 
+
+## Chindogu
+
+Objetos que cubren funciones del día a día pero mal, raro
+
+https://en.wikipedia.org/wiki/Chind%C5%8Dgu

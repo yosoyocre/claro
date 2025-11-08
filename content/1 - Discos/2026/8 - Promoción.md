@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=gDfNRWsMRsU
 De esta forma, podría empezar a salirme de las plataformas de streaming priorizando otras.
 Y esto podría ser compatible con los sistemas para promocionar las canciones en listas de Spotify.
 
+## Fotos promocionales
+
+Yo en pijama en unha habitación llena de trastos, de mierda
+
 ## Vivir del cuento (este)
 
 Aquí me meto un poco en ideas que puedo probar para hacer de la música algo rentable económicamente y, por qué no, acabar viviendo de esto (¿no?)
