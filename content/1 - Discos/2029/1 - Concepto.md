@@ -1,3 +1,5 @@
 Disco centrado en el deseo
 
-TODO Leer a Sade
+#todo Leer a Sade  
+#todo ver las películas sobre deseo del director italiano 
+
