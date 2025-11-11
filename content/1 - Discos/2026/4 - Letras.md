@@ -53,6 +53,8 @@ Venga
 Triptófano ¿para qué?  
 
 ¡Tiempo muerto!
+  
+Réprobo. Humanidad réproba
 
 ## Fatiga
 
