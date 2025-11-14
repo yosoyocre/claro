@@ -7,9 +7,9 @@ tags:
 ## Vaya tajo (Contacto con el curro)
 
 Qué ganas de empezar
-Para esto me he preparado
-Me irá fenomenal
 Esto me lo he ganado
+Me irá fenomenal
+Me siento preparado
 
 Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
 Podría ser un buen comienzo de disco.
