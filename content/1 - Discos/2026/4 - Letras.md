@@ -11,6 +11,14 @@ Esto me lo he ganado
 Me irá fenomenal
 Me siento preparado
 
+Lo sé. 
+No es lo que quería  
+Pero así es la vida  
+Al ser  
+mayor.  
+Esto es ser  
+adulto
+
 Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
 Podría ser un buen comienzo de disco.
 
