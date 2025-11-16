@@ -22,6 +22,7 @@ adulto
 Así que esto es trabajar  
 No es como lo imaginaba  
 Esto no está tan mal  
+Veré qué tal mañana  
 
 Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
 Podría ser un buen comienzo de disco.
