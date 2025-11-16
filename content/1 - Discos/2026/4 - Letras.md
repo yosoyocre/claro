@@ -24,7 +24,8 @@ No es como lo imaginaba
 Esto no está tan mal  
 Veré qué tal mañana 
 
-No me hará daño  
+No me  
+harán ningún daño  
 los 40 años  
 de ser  
 mayor  
