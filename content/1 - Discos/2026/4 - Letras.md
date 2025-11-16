@@ -20,7 +20,7 @@ Esto es ser
 adulto
 
 Así que esto es trabajar  
-No era lo que imaginaba  
+No es como lo imaginaba  
 Esto no está tan mal  
 
 Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
