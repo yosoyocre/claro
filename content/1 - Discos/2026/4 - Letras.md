@@ -19,6 +19,10 @@ mayor.
 Esto es ser  
 adulto
 
+Así que esto es trabajar  
+No era lo que imaginaba  
+Esto no está tan mal  
+
 Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
 Podría ser un buen comienzo de disco.
 
