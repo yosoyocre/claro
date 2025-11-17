@@ -6,13 +6,31 @@ tags:
 ---
 ## Vaya tajo (Contacto con el curro)
 
-Qué ganas de empezar  
-Para esto me he preparado  
-Me irá fenomenal  
-Esto me lo he ganado  
+Qué ganas de empezar
+Esto me lo he ganado
+Me irá fenomenal
+Me siento preparado
 
-Qué bien que se me da  
-Mejor que el de al lado  
+Lo sé. 
+No es lo que quería  
+Pero así es la vida  
+Al ser  
+mayor.  
+Esto es ser  
+adulto
+
+Así que esto es trabajar  
+No es como lo imaginaba  
+Esto no está tan mal  
+Veré qué tal mañana 
+
+No me  
+harán ningún daño  
+los 40 años  
+de ser  
+mayor  
+de ser  
+adulto  
 
 Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
 Podría ser un buen comienzo de disco.
@@ -56,6 +74,8 @@ Venga
 Triptófano ¿para qué?  
 
 ¡Tiempo muerto!
+  
+Réprobo. Humanidad réproba
 
 ## Fatiga
 
