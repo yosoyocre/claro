@@ -6,55 +6,42 @@ tags:
 ---
 ## Vaya tajo (Contacto con el curro)
 
-Qué ganas de empezar
-Esto me lo he ganado
-Me irá fenomenal
-Me siento preparado
-
-Lo sé. 
-No es lo que quería  
-Pero así es la vida  
-Al ser  
-mayor.  
-Esto es ser  
+¡Qué ganas de empezar!  
+Yo me lo he ganado.  
+Lo haré fenomenal.
+Me siento preparado.  
+  
+Lo sé.   
+No es lo que quería,   
+pero así es la vida   
+al ser   
+mayor.   
+Es ser   
+adulto.  
+  
+Vuelvo de trabajar
+no es como lo imaginaba.  
+No lo llevo tan mal.   
+Veré qué tal mañana.   
+   
+No me   
+harán ningún daño   
+los 40 años   
+de ser   
+mayor,   
+de ser   
+adulto/proveedor
+deber
+adulto
+placer
 adulto
 
-Así que esto es trabajar  
-No es como lo imaginaba  
-Esto no está tan mal  
-Veré qué tal mañana 
+no hay deber
+mayor
+que el placer
+adulto
 
-No me  
-harán ningún daño  
-los 40 años  
-de ser  
-mayor  
-de ser  
-adulto  
-
-Igual podría empezar con las melodías de "Para todo, todos" aunque cambiando la letra.
-Podría ser un buen comienzo de disco.
-
-Preferiría no hacerlo pero...
-Mañana será mejor
-
-Mamá, quiero ser notario  
-Peter Pan eterno  
-Tom Hanks en Big
-
-Ya eres adulto
-La adultez son los padres
-
-- Papá, yo no quiero ir al trabajo
-- Pero si tienes 40 años y eres el director de la empresa!
-
-Vida en remojo
-Todo se resuelve sin esfuerzo
-
-El trabajo todo lo vence
-y aquí estoy vencido
-
-Muere ASAP
+Es de sentido común
 
 ## Vaya jeta
 
@@ -65,17 +52,15 @@ Herida repetitiva del espíritu
 ¿Dónde he dejado mis deseos?  
 ¿Dónde he guardado mis deseos?
 
-Vaya jeta
-
 Otra vez, otra vez, otra vez  
 Venga  
 (cada vez más gente se une al coro)
 
-Triptófano ¿para qué?  
+Otra reunión
 
-¡Tiempo muerto!
-  
-Réprobo. Humanidad réproba
+Ya lo decía Raúl, que trabajar es un acto suicida.
+
+Ver concepto tifos
 
 ## Fatiga
 
@@ -153,3 +138,8 @@ Lugar (Tensión) entre lo que es y lo que puede ser
 (La última canción podrían ser sonidos ambientes, pájaros, respiración... algo que evoque la vida contemplativa. Además, va bien con el concepto de ser un jeta, te cuelo silencio como canción. También podría ser una instrumental sencilla).
 
 Soy horizontal pero me obligan a ser vertical
+Donde mi caballo pisa crecerá la hierba
+Contra los Atilas del mundo moderno
+Ver concepto "hombre sin atributos"
+
+Arpegios de CMaj en la mano izquierda y Em en la derecha

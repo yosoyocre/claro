@@ -107,3 +107,33 @@ Contra los Atilas del mundo moderno
 
 ---
 Ser Sísifo y Atlas al mismo tiempo
+
+---
+Preferiría no hacerlo pero...
+Mañana será mejor
+
+Mamá, quiero ser notario  
+Peter Pan eterno  
+Tom Hanks en Big
+
+Ya eres adulto
+La adultez son los padres
+
+- Papá, yo no quiero ir al trabajo
+- Pero si tienes 40 años y eres el director de la empresa!
+
+Vida en remojo
+Todo se resuelve sin esfuerzo
+
+El trabajo todo lo vence
+y aquí estoy vencido
+
+Muere ASAP
+
+Vaya jeta
+
+Triptófano ¿para qué?  
+
+¡Tiempo muerto!
+  
+Réprobo. Humanidad réproba
