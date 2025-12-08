@@ -7,7 +7,7 @@ tags:
 ## Vaya tajo (Contacto con el curro)
 
 ¡Qué ganas de empezar!  
-Yo me lo he ganado.  
+Esto me lo he ganado.  
 Lo haré fenomenal.
 Me siento preparado.  
   
@@ -19,7 +19,7 @@ mayor.
 Es ser   
 adulto.  
   
-Vuelvo de trabajar
+Una semana ya
 no es como lo imaginaba.  
 No lo llevo tan mal.   
 Veré qué tal mañana.   
@@ -61,8 +61,6 @@ Otra reunión
 Ya lo decía Raúl, que trabajar es un acto suicida.
 
 Ver concepto tifos
-
-## Fatiga
 
 Fatiga  
 La vida  
@@ -116,7 +114,8 @@ Puede ser que esta **acedia**
 no me esté sentando bien
 
 ¿Qué es eso del cibertiempo
-que dices que hay que recuperar?
+que dices que hay que recuperar / asegurar / garantizar?
+Es extraño
 
 ## Espacios de deseo
 
@@ -143,3 +142,30 @@ Contra los Atilas del mundo moderno
 Ver concepto "hombre sin atributos"
 
 Arpegios de CMaj en la mano izquierda y Em en la derecha
+
+Am | Gm | F | BbMaj7
+Am | Gm | F | BbMaj7 | C#Maj7 | Csus4 | C
+
+o
+
+Am7 | Gm7 | FMaj7 | BbMaj7 | C#Maj7 | G7/F | Dm7,11/C  C9
+Al final, quedarse en el F del Dm7,11 para enganchar con el principio del disco
+pueden ser dos notas
+C y F, luego C# y F para colocarnos en la escala de tonos enteros
+
+Igual, para que ya  se una a la primera, puedo subirlo un semitono
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | G#7 / F# | D#m7,11/C#  C#9
+
+También puede valer
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | G#7 / F# | D#m7/C#  C#9
+Es decir, que al final la mano izquierda se mantenga en C# y la derecha vaya de D#m a C#9
+
+Otra variación
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | G#7 / F# | **Fm | A#**
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | **F# | G# | C#sus4  C#**
+
+Me mola el paso de A# a A#m
+
+Música que te prepara para la muerte, como dice Brian Eno en [[A year with swollen appendices]]
+
+Grabarla a una velocidad y ralentizar la grabación luego a la mitad, o más

@@ -48,3 +48,19 @@ https://www.instagram.com/reel/DAujA_OMZfk/?igsh=bWI5bmNlZ2M4OXEz
 Objetos que cubren funciones del día a día pero mal, raro
 
 https://en.wikipedia.org/wiki/Chind%C5%8Dgu
+
+Podría tratar de construir un **Chindogu digital**
+
+Podría instalar un TinyLlama en mi servidor usando Ollama
+https://chatgpt.com/share/691d8c9e-89dc-8009-8375-47e978801cf1
+
+Como el modelo funciona muy mal, podría usarlo para diseñar la portada.
+
+Podría pedir un concepto al usuario y, con eso lo que me dé TinyLlama, rellenar de palabras la portada.
+
+La pregunta al usuario podría ser "Describe un problema que tengas en menos de X palabras" y poner un ejemplo como "me pica la espalda" o "tengo depresión".
+
+El Chindogu digital podría entonces proponer una solución al problema. Como si fuese un **mal terapeuta** o un mal amigo.
+
+Podría ser como un coaching empresarial. La pregunta puede ser relacionada con el trabajo.
+El resultado podría ser un cartel inspiracional, de pocas palabras.

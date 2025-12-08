@@ -13,3 +13,8 @@ https://youtu.be/msQOik7vc6o?si=JmxsxW8IdgyemI9k
 
 ---
 Usar partidas de videojuegos en los que el jugador no hace nada. Por ejemplo, el Pong en el que se está perdiendo constantemente porque el jugador está parado. Para trasladar esa idea de "no puedo más con esto"
+
+---
+Me gusta cómo Cukoo toca su instrumento con un croma, en el que las imágenes son paisajes 
+
+https://youtu.be/7oBjTNOQ8mE?si=97JuElPBpC7AgS3y

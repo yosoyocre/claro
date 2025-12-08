@@ -242,3 +242,13 @@ En "Fatiga" usar la técnica de Artur de preparar varios samples con ruidos, exa
 Se me ocurre que se podría conseguir un efecto de delay grabando 3 veces una voz y desplazándolas el mismo intervalo.
 
 ¿Conseguiríamos un efecto distinto al delay clásico, porque son pistas distintas?
+
+---
+En algún momento, usar una Gated Reverb
+
+https://youtu.be/TsiHtJbc-sE?si=mJJa7WI4riBW0L5Z&t=144
+
+---
+Hacer un teclado que suene como el del vídeo. Es como un emulador de sonido de Commodore o de Nintendo en el que en cada nota se cambia la forma de la onda, dentro de las típicas del instrumento.
+
+https://youtu.be/7oBjTNOQ8mE?si=97JuElPBpC7AgS3y&t=516
