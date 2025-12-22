@@ -260,3 +260,43 @@ https://www.youtube.com/watch?v=fBdbRoSrWr4
 
 ---
 Hacer una canción con samples de canciones de grupos gallegos
+
+---
+## Después
+
+La última canción podrían ser sonidos ambientes, pájaros, respiración... algo que evoque la vida contemplativa. Además, va bien con el concepto de ser un jeta, te cuelo silencio como canción. También podría ser una instrumental sencilla.
+
+Soy horizontal pero me obligan a ser vertical
+Donde mi caballo pisa crecerá la hierba
+Contra los Atilas del mundo moderno
+Ver concepto "hombre sin atributos"
+
+Arpegios de CMaj en la mano izquierda y Em en la derecha
+
+Am | Gm | F | BbMaj7
+Am | Gm | F | BbMaj7 | C#Maj7 | Csus4 | C
+
+o
+
+Am7 | Gm7 | FMaj7 | BbMaj7 | C#Maj7 | G7/F | Dm7,11/C  C9
+Al final, quedarse en el F del Dm7,11 para enganchar con el principio del disco
+pueden ser dos notas
+C y F, luego C# y F para colocarnos en la escala de tonos enteros
+
+Igual, para que ya  se una a la primera, puedo subirlo un semitono
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | G#7 / F# | D#m7,11/C#  C#9
+
+También puede valer
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | G#7 / F# | D#m7/C#  C#9
+Es decir, que al final la mano izquierda se mantenga en C# y la derecha vaya de D#m a C#9
+
+Otra variación
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | G#7 / F# | **Fm | A#**
+A#m7 | G#m7 | F#Maj7 | BMaj7 | DMaj7 | **F# | G# | C#sus4  C#**
+
+Me mola el paso de A# a A#m
+
+Música que te prepara para la muerte, como dice Brian Eno en [[A year with swollen appendices]]
+Estilo 1-100 de Michael Nyman https://www.youtube.com/watch?v=2hdF-Yf9RtY
+
+Grabarla a una velocidad y ralentizar la grabación luego a la mitad, o más
