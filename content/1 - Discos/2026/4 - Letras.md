@@ -68,7 +68,7 @@ Látigo
 Ortiga
 
 ## Ruptura
-(Canción sobre dejar una relación tóxica con el Capitalismo)
+
 Esto se acaba aquí
 y así
 entiéndelo
@@ -115,8 +115,18 @@ no me esté sentando bien
 
 ¿Qué es eso del cibertiempo
 que dices que hay que recuperar / asegurar / garantizar?
-Es extraño
+Nuestros cuerpos
+marcarán
+cómo irá
+el futuro y a
+qué velocidad
 
+Sabotaje (pasivo), retirada, silencio, inactividad
+(En los coros, "Nada")
+
+(Final orquestado y ralentizado)
+¿Qué es esto que estoy sintiendo  
+ahora que no hay nada que hacer? 
 ## Espacios de deseo
 
 Ser testigo y resistir  

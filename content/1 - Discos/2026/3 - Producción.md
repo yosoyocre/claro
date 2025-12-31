@@ -252,3 +252,16 @@ https://youtu.be/TsiHtJbc-sE?si=mJJa7WI4riBW0L5Z&t=144
 Hacer un teclado que suene como el del vídeo. Es como un emulador de sonido de Commodore o de Nintendo en el que en cada nota se cambia la forma de la onda, dentro de las típicas del instrumento.
 
 https://youtu.be/7oBjTNOQ8mE?si=97JuElPBpC7AgS3y&t=516
+
+---
+De este vídeo he sacado estas cosas interesantes:
+https://www.youtube.com/watch?v=i9F1cglqG3c
+
+Sample Pack para Pop de Oliver
+https://splice.com/sounds/packs/splice/power-tools-presents-mixready/samples
+
+Web que te da vídeos de YouTube aleatorios para samplear
+https://samplette.io/
+
+Web con replays (vuelven a grabar samples para evitar tener que pagar tantos royalties) de canciones conocidas
+https://www.scorccio.com/
