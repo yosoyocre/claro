@@ -265,3 +265,10 @@ https://samplette.io/
 
 Web con replays (vuelven a grabar samples para evitar tener que pagar tantos royalties) de canciones conocidas
 https://www.scorccio.com/
+
+---
+Probar estos plugins gratuitos
+
+https://www.youtube.com/watch?v=vt0mP3VT8-A
+
+Especialmente el Instrument de Splice + Spitfire

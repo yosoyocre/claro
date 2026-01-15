@@ -18,6 +18,18 @@ Y esto podría ser compatible con los sistemas para promocionar las canciones en
 
 Yo en pijama en unha habitación llena de trastos, de mierda
 
+## Nota de prensa
+
+Ideas sueltas: 
+
+Disco conceptual que representa la historia cronológica del autor a través del mundo laboral, casi 20 años después de su incursión,  y la imaginación de una vida más allá, si acaso eso es posible.
+
+"Reflexiones emocionales", ese oxímoron. Inspirado por textos de Jenny Odell, Rebecca Solnit, Amador Ferndández-Savater, Byung-Chul Han o Bifo, pero llevados al cuerpo a través del sufrimiento del día a día, de lo obligatorio, del deber adulto.
+
+"- Mamá, yo no quiero ir a la escuela. - ¡Pero si tienes 40 años y eres el director!". Con este chiste resumimos el "Jeta". Es la historia de un niño que se revuelve en su adultez, en lo obligatorio.
+
+Cognitariado revelándose contra sí mismo, contra su Super Yo que le dice que trabaje más.
+
 ## Vivir del cuento (este)
 
 Aquí me meto un poco en ideas que puedo probar para hacer de la música algo rentable económicamente y, por qué no, acabar viviendo de esto (¿no?)

@@ -49,6 +49,9 @@ Objetos que cubren funciones del día a día pero mal, raro
 
 https://en.wikipedia.org/wiki/Chind%C5%8Dgu
 
+Similar al concepto de chindogu, está la obra de [Allan Wexler](https://en.wikipedia.org/wiki/Allan_Wexler)
+https://hyperallergic.com/allan-wexler-magnifies-the-absurdity-of-the-everyday/
+
 Podría tratar de construir un **Chindogu digital**
 
 Podría instalar un TinyLlama en mi servidor usando Ollama
@@ -64,3 +67,20 @@ El Chindogu digital podría entonces proponer una solución al problema. Como si
 
 Podría ser como un coaching empresarial. La pregunta puede ser relacionada con el trabajo.
 El resultado podría ser un cartel inspiracional, de pocas palabras.
+
+Igual es necesario entrenar a TinyLlama en un nuevo dataset propio pero ¿cuál usar? y ¿de dónde lo saco para que sea suficientemente grande, con más de 1.000 ejemplos?. Lo ideal sería entrenarlo en frases motivacionales pero ¿existe una base de datos así en internet?
+
+Podría haber un número limitado de respuestas y TinyLLM podría analizar la temática de la frase que se le da y elegir una respuesta correspondiente. Entonces solo sería un problema de clasificación de frases.
+
+ChatGPT me dice que puedo utilizar un tiny LLM preentrenado en español como ALBETO o DistillBETO. Estos LLM no reciben prompts, porque son solo encoders. Lo que hacen es calcular *embeddings* (un vector de números reales que representa el significado de un texto en un espacio matemático continuo) de cada palabra de un texto. Podemos, por lo tanto, calcular el *mean pooling* (la media de los embeddings de las palabras de una frase) de una frase de entrada, calcular el mean pooling de cada una de las frases motivacionales (o de la categoría del problema a resolver, tipo "Motivación en el deporte") y escoger la frase o categoría que esté más cerca en cuanto a su similitud coseno (mide el ángulo entre vectores porque eso nos da si están en la misma dirección y, por lo tanto, si su significado es parecido).
+
+Quizá podría usar, para cada categoría, una frase que describa un problema típico de esa categoría, o usar palabras clave de esa categoría. ChatGPT propone algo así:
+
+`CATEGORIES = {`
+	`"motivacion": "me siento desmotivado en el trabajo",`
+    `"estres": "tengo demasiado estrés laboral",`
+    `"conflicto": "problemas con compañeros de trabajo"`
+`}`
+
+Ejemplos de fases motivacionales
+https://www.cosmopolitan.com/es/consejos-planes/familia-amigos/a44105565/frases-motivacion-animo/

@@ -4,7 +4,8 @@ draft: false
 tags:
   -
 ---
-## Vaya tajo (Contacto con el curro)
+## Encuentro
+*Despertar, Vaya tajo (Contacto con el curro)*
 
 ¡Qué ganas de empezar!  
 Esto me lo he ganado.  
@@ -43,7 +44,8 @@ adulto
 
 Es de sentido común
 
-## Vaya jeta
+## Fatiga
+*Vaya jeta*
 
 Herida repetitiva del espíritu (otra vez)  
 Herida repetitiva del espíritu (venga, otra vez)  
@@ -94,7 +96,8 @@ solo a ti
 No sé si podré
 No lo sé
 
-## La culpa
+## Duelo
+*Culpa*
 
 ¿Qué es esto que estoy sintiendo  
 ahora que no hay nada que hacer?  
@@ -127,7 +130,9 @@ Sabotaje (pasivo), retirada, silencio, inactividad
 (Final orquestado y ralentizado)
 ¿Qué es esto que estoy sintiendo  
 ahora que no hay nada que hacer? 
-## Espacios de deseo
+
+## Huida
+*Acción, Escapada, Espacios de deseo*
 
 Ser testigo y resistir  
 Propósito sin propósito  
@@ -142,6 +147,7 @@ Se hace deseo al desear
 Un espacio utópico  
 Lugar (Tensión) entre lo que es y lo que puede ser
 
-## Después
+## Reposo
+*Descanso*
 
 [[1 - Discos/2026/2 - Música#Después|2 - Música]]
