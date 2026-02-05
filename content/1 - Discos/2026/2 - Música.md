@@ -300,3 +300,6 @@ Música que te prepara para la muerte, como dice Brian Eno en [[A year with swol
 Estilo 1-100 de Michael Nyman https://www.youtube.com/watch?v=2hdF-Yf9RtY
 
 Grabarla a una velocidad y ralentizar la grabación luego a la mitad, o más
+
+---
+# Pruebas

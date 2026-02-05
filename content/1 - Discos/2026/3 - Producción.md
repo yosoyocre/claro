@@ -272,3 +272,11 @@ Probar estos plugins gratuitos
 https://www.youtube.com/watch?v=vt0mP3VT8-A
 
 Especialmente el Instrument de Splice + Spitfire
+
+---
+Usar arreglos de cuerda que anticipan el acorde que luego se va a dar, creando temporalmente una disonancia que luego se resuelve.
+
+La nota va de "incorrecta" a "correcta" sin hacer nada
+
+https://www.patreon.com/posts/rob-moose-breaks-149538592
+Minuto 22:54

@@ -51,18 +51,9 @@ Herida repetitiva del espíritu (otra vez)
 Herida repetitiva del espíritu (venga, otra vez)  
 Herida repetitiva del espíritu
 
-¿Dónde he dejado mis deseos?  
-¿Dónde he guardado mis deseos?
-
 Otra vez, otra vez, otra vez  
 Venga  
 (cada vez más gente se une al coro)
-
-Otra reunión
-
-Ya lo decía Raúl, que trabajar es un acto suicida.
-
-Ver concepto tifos
 
 Fatiga  
 La vida  
@@ -78,11 +69,11 @@ porque yo no te comprendo.
 Todo lo que me das
 me lo quitarás luego
 en este juego
-en el que no puedo/quiero
+en el que no puedo
 ganar
 jamás
 
-Ese amor que me das
+Este amor que me das
 no lo quiero
 ya lo veo
 tus abrazos y tus besos
@@ -91,33 +82,24 @@ que está clara ahora
 de robar mi atención
 que no
 deje de mirar para ti
-solo a ti
 
-No sé si podré
-No lo sé
+En este juego
+en el que no quiero
+ganar
+jamás
 
 ## Duelo
-*Culpa*
+*Culpa, Herida*
 
-¿Qué es esto que estoy sintiendo  
-ahora que no hay nada que hacer?  
-No es descanso, (Es extraño)  
-ni placer. (no es placer)  
-Puede ser que esta **acrasia**  
-no me esté sentando bien
-
-¿Qué es esto que estoy sintiendo  
-ahora que no hay nada que hacer?  
-  (Otra voz en canon:
-  ¿Qué es esto que estoy sintiendo?
-  Ahora no hay que hacer)
-No es descanso,
-ni placer.
-Puede ser que esta **acedia**  
+^¿Qué es esto que estoy sintiendo  
+ahora que no hay nada ^que hacer?  
+^No es descanso, (Es extraño)  
+^ni placer. (no es placer)  
+^Puede ser ^que esta acrasia  
 no me esté sentando bien
 
 ¿Qué es eso del cibertiempo
-que dices que hay que recuperar / asegurar / garantizar?
+que dices que hay que recuperar?
 Nuestros cuerpos
 marcarán
 cómo irá
@@ -130,6 +112,13 @@ Sabotaje (pasivo), retirada, silencio, inactividad
 (Final orquestado y ralentizado)
 ¿Qué es esto que estoy sintiendo  
 ahora que no hay nada que hacer? 
+ (Otra voz en canon:
+  ¿Qué es esto que estoy sintiendo?
+  Ahora no hay que hacer)
+
+¿Qué es eso del cibertiempo?
+¿Qué es eso del cibertiempo?
+(coro empezando con los barítonos)
 
 ## Huida
 *Acción, Escapada, Espacios de deseo*
