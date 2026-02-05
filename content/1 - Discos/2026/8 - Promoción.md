@@ -67,3 +67,14 @@ Debería preparar un pequeño portfolio con las distintas cosas que he hecho:
 	- Rehacer la banda sonora de otros
 	- Hacer música para los vídeos de Javi Quiroga
 
+
+# Ideas 
+![[Idea promo Jeta 1.m4a]]
+
+![[Idea promo Jeta 2.m4a]]
+
+![[Idea promo Jeta 3.m4a]]
+
+![[Idea promo Jeta 4.m4a]]
+
+![[Idea promo Jeta 5.m4a]]

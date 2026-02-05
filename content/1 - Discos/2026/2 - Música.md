@@ -303,3 +303,127 @@ Grabarla a una velocidad y ralentizar la grabación luego a la mitad, o más
 
 ---
 # Pruebas
+
+## Encuentro
+
+![[Ideas escala tonos.m4a]]
+![[Idea estrofas escala tonos.m4a]]
+![[Ideas estrofa escala tonos 2.m4a]]
+![[Mas ideas estrofa tonos enteros.m4a]]
+![[Pequeña idea tonos enteros.m4a]]
+![[Ideas estrofa completa tono completos.m4a]]
+![[Completando estrofa tonos enteros.m4a]]
+![[Variación tonos enteros.m4a]]
+
+Ideas glisando
+![[Ideas glisando tonos enteros.m4a]]
+
+Variaciones en voz
+![[Variación en voz de tonos enteros.m4a]]
+![[Posibles variaciones voz tonos enteros.m4a]]
+
+Pruebas de voz
+![[Pruebas de voz.m4a]]
+
+Pruebas final
+![[Idea Encuentro.m4a]]
+![[Idea final Encuentro.m4a]]
+![[Idea final Encuentro 2.m4a]]
+![[Avance final Encuentro.m4a]]
+
+## Fatiga
+
+Posibles frases y ruidos
+![[Otra reunión.m4a]]
+![[Prueba bespoke.m4a]]
+![[Herida.m4a]]
+![[Herida 2.m4a]]
+![[Herida bucles.m4a]]
+
+Coros
+![[Coros herida.m4a]]
+![[Mas Coros Herida.m4a]]
+
+Melodías principales
+![[Otra vez.m4a]]
+![[Otra vez 2.m4a]]
+![[Otra vez 3.m4a]]
+
+Variación instrumental
+![[Variación fatiga.m4a]]
+
+Combinación con melodía de Fatiga
+![[Herida y fatiga.m4a]]
+
+## Ruptura
+
+![[Ideas con guitarra y voz.m4a]]
+![[Más ideas guitarra y voz.m4a]]
+![[Variación guitarra y voz.m4a]]
+![[Variación 2 con guitarra y voz.m4a]]
+![[Avance guitarra y voz.m4a]]
+![[Avance 2 guitarra y voz.m4a]]
+![[Variación de la Variación de guitarra y voz.m4a]]
+![[Más más más avance ruptura.m4a]]
+
+Coros
+![[Ideas coros ruptura.m4a]]
+![[Más ideas coros ruptura.m4a]]
+
+Idea canción final
+![[Prueba Ruptura.m4a]]
+
+Variación final
+![[Variación final ruptura.m4a]]
+![[Prueba final Ruptura.m4a]]
+
+Otros coros
+![[Prueba coro ruptura.m4a]]
+
+Guitarra con cuerdas al aire
+![[Ruptura con cuerdas al aire.m4a]]
+
+Variación de guitarra final
+![[Variación final arpegiado de ruptura.m4a]]
+## Duelo
+
+Ideas iniciales
+![[Descenso por tritonos.m4a]]
+![[Descenso por tritonos 2.m4a]]
+
+Ideas de canción final
+![[Linea de bajo descenso tritonos.m4a]]
+![[Descenso por tritonos avanzado.m4a]]
+![[Descenso por tritonos avanzado 2.m4a]]
+![[Acrasia.m4a]]
+![[Prueba Acrasia.m4a]]
+![[Bajo Acrasia.m4a]]
+![[Bajo Acrasia 2.m4a]]
+![[Bajo Acrasia 3.m4a]]
+![[Acrasia Bajo Voz.m4a]]
+
+Ideas estrofa
+![[Idea estrofa cibertiempo.m4a]]
+![[Variación cibertiempo.m4a]]
+
+Guitarra percutida
+![[Guitarra percutida culpa.m4a]]
+
+Coros finales
+![[Qué es eso del cibertiempo.m4a]]
+
+Trompetas
+![[Trompetas culpa.m4a]]
+## Huida
+
+
+
+## Reposo
+Pruebas en escala superlocria![[Prueba superlocria.m4a]]![[Prueba melodía superlocria.m4a]]
+![[Melodía superlocria 2.m4a]]![[Otra melodía escala superlocria.m4a]]![[Otra superlocria.m4a]]![[Avance superlocria.m4a]]
+Superlocria más definida
+![[Tajedia.m4a]]
+
+![[Tajedia-1.m4a]]
+
+Pruebas con progresión larga![[Ideas intrumental.m4a]]![[Variación instrumental.m4a]]![[Intrumental sin ritmo.m4a]]![[Variación instrumental con piano.m4a]]![[Simplificación instrumental.m4a]]![[Instrumental con rhodes y violines.m4a]]![[Instrumental algo más formado.m4a]]![[Pequeñas variaciones instrumental.m4a]]![[Acorde con 4 en bajo, interesante instrumental.m4a]]![[Variación instrumental con mayores y disonancias.m4a]]![[Instrumental con intro.m4a]]![[Pequeña idea instrumental.m4a]]![[Improvisación sobre instrumental.m4a]]![[Instrumental teclado cuerdas.m4a]]

@@ -84,3 +84,34 @@ Quizá podría usar, para cada categoría, una frase que describa un problema t�
 
 Ejemplos de fases motivacionales
 https://www.cosmopolitan.com/es/consejos-planes/familia-amigos/a44105565/frases-motivacion-animo/
+
+# Ideas
+![[Idea diseño jeta.m4a]]
+
+![[Idea diseño Jeta 3.m4a]]
+
+![[Idea diseño Jeta 4.m4a]]
+
+![[Idea diseño Jeta 5.m4a]]
+
+![[Idea diseño Jeta 6.m4a]]
+
+![[Idea diseño Jeta 7.m4a]]
+
+![[Idea diseño Jeta 8.m4a]]
+
+![[Idea diseño Jeta 9.m4a]]
+
+![[Idea diseño Jeta 10.m4a]]
+
+![[Idea diseño Jeta 11.m4a]]
+
+![[Idea diseño Jeta 12.m4a]]
+
+![[Idea diseño Jeta 13.m4a]]
+
+![[Idea diseño Jeta 14.m4a]]
+
+![[Idea diseño Jeta 15.m4a]]
+
+![[Idea diseño Jeta 16.m4a]]
