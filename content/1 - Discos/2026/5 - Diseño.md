@@ -115,3 +115,13 @@ https://www.cosmopolitan.com/es/consejos-planes/familia-amigos/a44105565/frases-
 ![[Idea diseño Jeta 15.m4a]]
 
 ![[Idea diseño Jeta 16.m4a]]
+
+# Pruebas
+
+![[jeta.png]]
+
+![[jeta2.png]]
+
+![[jeta3.png]]
+
+![[jeta4.png]]
