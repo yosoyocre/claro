@@ -32,6 +32,8 @@ Este es un disco conceptual que representa la historia cronológica del autor a 
 
 Cognitariado revelándose contra sí mismo, contra su Super Yo que le dice que trabaje más.
 
+En mis discos trato de ponerle música y palabras a mis malestares. En vez de reparar lo roto, crear algo nuevo, otras formas de vivir.
+
 ## Vivir del cuento (este)
 
 Aquí me meto un poco en ideas que puedo probar para hacer de la música algo rentable económicamente y, por qué no, acabar viviendo de esto (¿no?)
