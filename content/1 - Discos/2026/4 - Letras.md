@@ -83,6 +83,7 @@ de robar mi atención
 que no
 deje de mirar para ti
 
+(Ralentizado)
 En este juego
 en el que no quiero
 ganar

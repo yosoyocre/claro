@@ -280,3 +280,8 @@ La nota va de "incorrecta" a "correcta" sin hacer nada
 
 https://www.patreon.com/posts/rob-moose-breaks-149538592
 Minuto 22:54
+
+---
+Probar estas 2 técnicas de crear reverb pero con dispositivos que no están diseñados para ello
+
+https://www.youtube.com/watch?v=XQuP6KKScAs
