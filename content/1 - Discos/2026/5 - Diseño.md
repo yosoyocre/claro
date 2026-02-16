@@ -116,12 +116,32 @@ https://www.cosmopolitan.com/es/consejos-planes/familia-amigos/a44105565/frases-
 
 ![[Idea diseño Jeta 16.m4a]]
 
+# Conceptos para las imágenes
+Labour
+Work
+Factory
+Slavery
+Jail
+Panoptic
+Sloth
+Laziness
+Hell
+Robot
+Golem
+Automata
+Technology
+Computer
+Business
+Businessman
+Rich
+Wealthy
+Oppression
+Atlas
+Sisyphus
+Office
 # Pruebas
 
 ![[jeta.png]]
-
 ![[jeta2.png]]
-
 ![[jeta3.png]]
-
-![[jeta4.png]]
+![[jeta4.png]]![[jeta5.png]]![[jeta6.png]]![[jeta7.png]]![[jeta8.png]]![[jeta9.png]]

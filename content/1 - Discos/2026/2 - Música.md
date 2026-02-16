@@ -417,7 +417,7 @@ Trompetas
 ![[Trompetas culpa.m4a]]
 ## Huida
 
-
+![[tercer espacio.wav]]
 
 ## Reposo
 Pruebas en escala superlocria![[Prueba superlocria.m4a]]![[Prueba melodía superlocria.m4a]]
