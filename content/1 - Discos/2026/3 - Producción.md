@@ -285,3 +285,8 @@ Minuto 22:54
 Probar estas 2 técnicas de crear reverb pero con dispositivos que no están diseñados para ello
 
 https://www.youtube.com/watch?v=XQuP6KKScAs
+
+---
+En lugar de tocar el bajo haciendo corcheas todo el tiempo, hacer que la primera nota de cada compás dure el doble
+
+https://youtu.be/EGMabOCvHfw?si=VRSeRYnBBWwzx6uU&t=1514
