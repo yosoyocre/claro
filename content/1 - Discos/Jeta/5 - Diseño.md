@@ -143,6 +143,7 @@ Laziness
 Office
 Oppression
 Panoptic
+Protest
 Puppet
 Rich
 Riot

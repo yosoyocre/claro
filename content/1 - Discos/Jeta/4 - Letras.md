@@ -140,4 +140,4 @@ Lugar (Tensión) entre lo que es y lo que puede ser
 ## Reposo
 *Descanso*
 
-[[1 - Discos/2026/2 - Música#Después|2 - Música]]
+[[1 - Discos/Jeta/2 - Música#Después|2 - Música]]

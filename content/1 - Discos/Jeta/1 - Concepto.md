@@ -7,6 +7,8 @@ tags:
 ## Posibles nombres
 
 Ocre es un Jeta  
+
+*Otros posibles nombres*
 Ocre es Gandul  
 Ocre es Hueco  
 Ocre es Vano  
