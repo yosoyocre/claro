@@ -158,6 +158,7 @@ Sloth
 Strike
 Technology
 Tired
+Torture - https://digitalcollections.nypl.org/search/index?page=2&filters=%5Btopic%3DPunishment+%26+torture%5D
 Wealthy
 Work
 # Pruebas
