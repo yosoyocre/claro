@@ -132,8 +132,11 @@ Automata
 Business
 Businessman
 Computer
+Destruction
 Exhausted
 Factory
+Factory fire
+Fire
 Golem
 Guillotine
 Hell
@@ -143,6 +146,7 @@ Laziness
 Office
 Oppression
 Panoptic
+Picketer
 Protest
 Puppet
 Rich
@@ -151,6 +155,7 @@ Robot
 Sisyphus
 Slavery
 Sloth
+Strike
 Technology
 Tired
 Wealthy
