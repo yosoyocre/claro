@@ -38,6 +38,8 @@ Utilizar una mesa de mezcla como instrumento, usando su feedback
 Usar la convolución entre sonidos para generar ambientes nuevos  
 [https://youtu.be/uvMKOkkCwBU](https://youtu.be/uvMKOkkCwBU)
 
+Especialmente interesante para la canción instrumental
+
 ---
 Usar los sonidos de la LABS Obsolete Machines  
 [https://www.youtube.com/watch?v=elW5IT0HmSs](https://www.youtube.com/watch?v=elW5IT0HmSs)
@@ -290,3 +292,8 @@ https://www.youtube.com/watch?v=XQuP6KKScAs
 En lugar de tocar el bajo haciendo corcheas todo el tiempo, hacer que la primera nota de cada compás dure el doble
 
 https://youtu.be/EGMabOCvHfw?si=VRSeRYnBBWwzx6uU&t=1514
+
+---
+Probar ChatDSP, un módulo de Ableton que le pasa un prompt a Claude y devuelve el código de un sinte con el que se puede tocar
+
+https://www.youtube.com/watch?v=vYfYqPCe0MU
