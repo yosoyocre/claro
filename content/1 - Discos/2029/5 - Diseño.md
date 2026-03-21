@@ -1,7 +1,15 @@
+---
+title: "5 - Diseño"
+draft: false
+tags:
+  -
+---
+
 Shunga, imágenes de primavera
 https://es.wikipedia.org/wiki/Shunga
 
 ---
+
 Inspirarme en mujeres artistas que no conocía
 
 Alice Rahon
@@ -30,4 +38,3 @@ Remedios Varo
 Rosalyn Drexler
 Sofía Bassi
 Vivian Maier
-
