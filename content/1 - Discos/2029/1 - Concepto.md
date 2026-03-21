@@ -4,6 +4,11 @@ draft: false
 tags:
   -
 ---
+## Posibles nombres
+
+Ocre está Roto
+
+## Temas principales
 
 Disco centrado en el deseo
 
