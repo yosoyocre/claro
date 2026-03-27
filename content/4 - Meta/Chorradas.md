@@ -18,7 +18,22 @@ Puto nocso
 
 ---
 
+La gordofobia cantada como la barbacoa
+O gordofobia como everybody de los backstreetboys
+
+---
+
 Men sana in corpore regulero
 Men sana in corpore meh
 
 ---
+
+ApeteKant!
+
+---
+
+Batalla
+Performance
+Bomba
+Promesa
+Metáfora
