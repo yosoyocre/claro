@@ -10,7 +10,7 @@ Como concepto de producción del disco podría establecer estas limitaciones:
 - Voz y guitarra grabadas a la vez con el móvil
 - Teclado principal grabado con el móvil
 - Guitarra ligeramente desafinada
-- Sin base
+- Sin base ni claqueta
 - Teclados ambientales y ruidos añadidos después
 
 ---
