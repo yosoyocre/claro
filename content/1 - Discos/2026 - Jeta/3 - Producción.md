@@ -4,6 +4,17 @@ draft: false
 tags:
   -
 ---
+
+Como concepto de producción del disco podría establecer estas limitaciones:
+
+- Voz y guitarra grabadas a la vez con el móvil
+- Teclado principal grabado con el móvil
+- Guitarra ligeramente desafinada
+- Sin base
+- Teclados ambientales y ruidos añadidos después
+
+---
+
 Como el disco irá con las canciones ordenadas cronológicamente, podrían unirse los finales y comienzos. Igual podría estar interesante que la última canción también vaya enlazada con la primera, a modo de un bucle infinito del que no podemos escapar.
 
 También puedo hacer que las canciones cada vez tengan menos elementos de producción, como si el maximalismo representase al capitalismo y el minimalismo al descanso. La última debería ser la más sencilla. Quizás al final de la canción instrumental podría ir creciendo y haciéndose más disonante para que luego se enganche bien con la primera canción.
@@ -13,249 +24,304 @@ La del tercer espacio debería ya estar en unas coordenadas más de Sufjan Steve
 ![[tercer espacio.wav]]
 
 ---
+
 Usar mesas y efectos con la técnica no-input como generador de sonidos y usar un móvil como DAW. Limitación y roce para reflejar el día a día laboral y que eso se plasme en la música. O con la tablet, usando el software de controladora custom
 
 ---
+
 Procesar sonidos a través de un **ordenador demasiado saturado**, haciendo demasiadas cosas como para poder reproducirlos sin problemas. Por ejemplo, reproducir un sonido mientras se ejecuta un algoritmo mal programado, que utilice demasiados recursos o infinito. Una máquina llevada al límite como un ser humano cuando trabaja como una máquina. Aquí también puede encajar la idea de no querer la optimización. **La optimización no existe**, eventualmente la máquina rompe, se desintegra,muere.
 
 ---
+
 Usar el delay como sampler  
 [https://www.youtube.com/watch?v=Nerfg5RtYzM](https://www.youtube.com/watch?v=Nerfg5RtYzM)
 
 ---
+
 Probar estas técnicas con el Wrap mode de Ableton  
 [https://www.youtube.com/watch?v=HTLPQgNkXyc](https://www.youtube.com/watch?v=HTLPQgNkXyc)
 
 ---
+
 Usar esta técnica para alterar el pitch de un sample con el Spectral Resonator  
 [https://youtu.be/xk8HsgS9Gbc?t=316](https://youtu.be/xk8HsgS9Gbc?t=316)
 
 ---
+
 Utilizar una mesa de mezcla como instrumento, usando su feedback  
 [https://www.youtube.com/watch?v=qImT8OUjOV8](https://www.youtube.com/watch?v=qImT8OUjOV8)
 
 ---
+
 Usar la convolución entre sonidos para generar ambientes nuevos  
 [https://youtu.be/uvMKOkkCwBU](https://youtu.be/uvMKOkkCwBU)
 
 Especialmente interesante para la canción instrumental
 
 ---
+
 Usar los sonidos de la LABS Obsolete Machines  
 [https://www.youtube.com/watch?v=elW5IT0HmSs](https://www.youtube.com/watch?v=elW5IT0HmSs)
 
 ---
-Automatizar rítmicamente la posición y cola de la reverb   
+
+Automatizar rítmicamente la posición y cola de la reverb  
 [https://www.youtube.com/shorts/x-OvfVZRGZU](https://www.youtube.com/shorts/x-OvfVZRGZU)
 
 ---
+
 Usar este sinte estocástico  
 [https://youtu.be/8Qs1SXkFPt8](https://youtu.be/8Qs1SXkFPt8)
 
 ---
+
 Probar esta técnica con envelopes  
 [https://www.youtube.com/shorts/QlMHEufTLjI](https://www.youtube.com/shorts/QlMHEufTLjI)
 
 ---
+
 Hacer como en el Anima Latina de Lucio Battisti y tocar una misma melodía a lo largo de varias canciones. En una es la principal pero en el resto son arreglos, guiños
 
 ---
+
 Hacer sonidos como si fuese para un sistema operativo ficticio, como hizo Brian Eno con Windows 95
 
 ---
+
 Usar samples de videojuegos como indican en este vídeo  
 [https://www.youtube.com/watch?v=SQTkOUjayW0](https://www.youtube.com/watch?v=SQTkOUjayW0)
 
 ---
+
 Usar este efecto de trémolo en la cola de un crash de batería  
-[https://youtu.be/wVlbSbwspkA?si=i-giY0TWIXun7wkj\&t=439](https://youtu.be/wVlbSbwspkA?si=i-giY0TWIXun7wkj\&t=439)
+[https://youtu.be/wVlbSbwspkA?si=i-giY0TWIXun7wkj\&t=439](https://youtu.be/wVlbSbwspkA?si=i-giY0TWIXun7wkj&t=439)
 
 ---
+
 Usar cuerdas de nylon negras en el bajo (concretamente tru bass 88 string)  
-[https://youtu.be/Zlv9i0XC8NA?si=GfOEuN\_B4wtn\_9NX\&t=341](https://youtu.be/Zlv9i0XC8NA?si=GfOEuN\_B4wtn\_9NX\&t=341)
+[https://youtu.be/Zlv9i0XC8NA?si=GfOEuN_B4wtn_9NX\&t=341](https://youtu.be/Zlv9i0XC8NA?si=GfOEuN_B4wtn_9NX&t=341)
 
 ---
+
 Usar sonido de shaker al frotarme las manos.  
 Frotarse las manos como representación del capitalista feliz haciendo negocio
 
 ---
+
 **Usar el sonido de vibración del móvil** como batería u otros sonidos molestos del día a día (mensajes de WhatsApp, emails, etc.) del trabajador contemporáneo  
 Simular el estar constantemente conectado a la empresa a través del móvil  
 ¿Demasiado obvio?
 
 ---
+
 Hacer coros susurrantes pero solo en determinadas partes para acentuarlas, como hace Dua Lipa  
 [https://www.youtube.com/watch?v=M0TJtU2Y0s0](https://www.youtube.com/watch?v=M0TJtU2Y0s0)
 
 ---
-*Worldize* (llevar al mundo) mis sonidos, es decir, hacer que mis sonidos se reproduzcan en un entorno, en un espacio y volver a grabarlos para obtener más carácter.  
+
+_Worldize_ (llevar al mundo) mis sonidos, es decir, hacer que mis sonidos se reproduzcan en un entorno, en un espacio y volver a grabarlos para obtener más carácter.  
 [https://www.youtube.com/watch?v=jNTDq5mAsAs](https://www.youtube.com/watch?v=jNTDq5mAsAs)
 
 ---
+
 Usar el VST de Amigo  
 [https://www.potenzadsp.com/amigo/](https://www.potenzadsp.com/amigo/)
 
 ---
+
 Probar esta técnica de Ben Levin para generar ritmos y timbres de sintetizadores, saltando de un preset de efectos o de instrumentos a otro  
 [https://www.youtube.com/watch?v=3BAamyOl0PE](https://www.youtube.com/watch?v=3BAamyOl0PE)
 
 ---
+
 Usar esta técnica de la segunda mitad del vídeo en la que se cogen 50 samples de splice pero, en lugar de usar solo un sample a la vez, asignar cada sample a una tecla, de forma que suene diferente en función de las notas que se toque  
 [https://www.youtube.com/shorts/6WObj8GHD7o](https://www.youtube.com/shorts/6WObj8GHD7o)
 
 ---
-Probar el Little Radiator, usado por [Jaycen Joshua](https://en.wikipedia.org/wiki/Jaycen\_Joshua), para dar más *warmth*, más sonido de válvulas  
+
+Probar el Little Radiator, usado por [Jaycen Joshua](https://en.wikipedia.org/wiki/Jaycen_Joshua), para dar más _warmth_, más sonido de válvulas  
 [https://www.soundtoys.com/product/little-radiator/](https://www.soundtoys.com/product/little-radiator/)
 
 ---
-Usar el plugin Renaissance Bass, también usado por [Jaycen Joshua](https://en.wikipedia.org/wiki/Jaycen\_Joshua), para dar más fuerza a los bajos  
+
+Usar el plugin Renaissance Bass, también usado por [Jaycen Joshua](https://en.wikipedia.org/wiki/Jaycen_Joshua), para dar más fuerza a los bajos  
 [https://www.waves.com/plugins/renaissance-bass](https://www.waves.com/plugins/renaissance-bass)  
 Pero él utiliza una versión muy antigua del plugin
 
 ---
+
 También utiliza Black Box para saturar las baterías  
-[https://www.plugin-alliance.com/en/products/black\_box\_analog\_design\_hg-2.html](https://www.plugin-alliance.com/en/products/black\_box\_analog\_design\_hg-2.html)
+[https://www.plugin-alliance.com/en/products/black_box_analog_design_hg-2.html](https://www.plugin-alliance.com/en/products/black_box_analog_design_hg-2.html)
 
 ---
+
 Usar estas técnicas para convertir el ruido que haga con la mesa de sonido en distintos instrumentos  
-[https://www.youtube.com/watch?v=P\_eqOk-DFno](https://www.youtube.com/watch?v=P\_eqOk-DFno)
+[https://www.youtube.com/watch?v=P_eqOk-DFno](https://www.youtube.com/watch?v=P_eqOk-DFno)
 
 ---
+
 Usar un sample de esta canción de David Bellas  
 [https://www.youtube.com/watch?v=WutFOmcyo8Q](https://www.youtube.com/watch?v=WutFOmcyo8Q)
 
 ---
+
 Usar estas técnicas con el Vocoder para generar sonidos de plástico, látex y goma  
 https://www.youtube.com/watch?v=ws8yLOIkLms&t=495s
 
 ---
+
 Grabar todo desde el móvil para reflejar su omnipresencia en nuestras vidas
 
 ---
+
 Usar algún software de este vídeo, que muestra los que usaba Aphex Twin para hacer sus discos
 https://www.youtube.com/watch?v=5wIOBBodoic
 
 Podría estar bien que la música que haga usando un software tan viejo y poco accesible represente el dolor diario del enfrentarse al trabajo.
-  
+
 Como si quisiese capturar el malestar de tener que hacer algo que no te apetece hacer, obligado, sin razón aparente.
 
 ---
+
 Desmontar un plato de vinilo y usar la pastilla para leer vinilos pero mal, como hacen aquí
 https://youtu.be/S2B9Kc1-LAg?si=vst_F6b4hsZJczR0&t=1117
 
 ---
+
 Probar a usar Matchering 2.0, herramienta gratuita para masterizar una canción a partir de otra similar
 https://youtu.be/wZRV2H4PK0Q?si=I-kxpsDZzcbTjCo2&t=1244
 
 ---
+
 Usar esta técnica de quitar las consonantes sibilantes (ásperas) de los coros
 https://www.youtube.com/shorts/c5d7gN1SJYE
 
 ---
+
 Colocar samples que suenen justo antes de otros samples de batería para crear una cierta anticipación y realismo
 https://www.youtube.com/watch?v=6K_4T19FB5w
 
 ---
+
 Probar esta técnica para crear sintes potentes, repartiendo las frecuencias entre varios sintes distintos.  
 También es interesante el efecto que se consigue al mapear un Envelope MIDI a Dry/Wet de la Reverb.
 https://www.youtube.com/watch?v=Q2rm46nBlWY
 
 ---
+
 Probar estos plugins  
-https://www.youtube.com/watch?v=CbXdCbEbJcA  
+https://www.youtube.com/watch?v=CbXdCbEbJcA
 
 Concretamente, me mola que hay uno de ellos, ToTape8, que, aparte de ser gratuito, es de código abierto y puedo coger cosas para hacer los míos  
 https://github.com/airwindows/airwindows/tree/master
 
 ---
+
 Probar Soothe para ecualizar cosas. Según Jacob Collier, elimina las partes feas de los medios y agudos  
 https://oeksound.com/plugins/soothe2/
 
 ---
+
 Probar Neutron para ecualizar voces. También recomendado por Jacob Collier  
 https://www.izotope.com/en/products/neutron.html
 
 ---
+
 Explorar el concepto de Plunderphonics
 https://en.wikipedia.org/wiki/Plunderphonics
 Concretamente, el disco Grayfolded:
 
-> is a two-CD album produced by John Oswald featuring new edits and re-mixes of the Grateful Dead song "Dark Star". Oswald used a process he calls "plunderphonics" to edit fragments of over a hundred different performances of the song, recorded live between 1968 and 1993, to produce two new versions of the song each lasting about an hour. 
+> is a two-CD album produced by John Oswald featuring new edits and re-mixes of the Grateful Dead song "Dark Star". Oswald used a process he calls "plunderphonics" to edit fragments of over a hundred different performances of the song, recorded live between 1968 and 1993, to produce two new versions of the song each lasting about an hour.
 
 https://en.wikipedia.org/wiki/Grayfolded
 
 Podría hacer eso mismo con mis propios samples, de canciones grabadas o nuevos que haga.
 
 ---
+
 Intentar esta técnica para crear "instrumentos falsos" a partir de samples de los reales
 
 https://www.youtube.com/watch?v=xhj81xX9CLM
 
 ---
+
 Usar esta técnica que combina un piano con un sidechain, de forma que cuando la nota del piano deje de sonar, entre otra textura, que desaparece en la siguiente nota.
 
 https://youtu.be/LGeGMrXIs1Y?si=vQ_C2d7XGkLt7BgV&t=421
 
 ---
+
 Contratar https://possessmypiano.com/ para que un robot ejecute y grabe mi MIDI en un piano muy bueno.
 
-Me gusta cómo suena cuando se lleva a sus límites: 
+Me gusta cómo suena cuando se lleva a sus límites:
 https://youtu.be/VvCHIz--0EE?si=QeVplTAJD9x-C_Vs&t=123
 
 ---
+
 Usar transformadas de Fourier para construir dos sonidos distintos con sinusoidales para luego ir eliminándolas y, después, añadiéndolas para hacer un fade-out/fade-in muy chulo
 
 https://youtu.be/VvCHIz--0EE?si=5GLf93wLlEOaiYJM&t=280
 
 ---
+
 Tocar el piano acústico con pinzas para el pelo
 
 https://www.youtube.com/watch?v=bp84uZGOOiI
 
 ---
+
 Consejos de Artur
 https://www.youtube.com/watch?v=jpnu2BTAy9s
 https://maxforlive.com/library/device/9429/boba
 
 ---
+
 Usar mucho el comping (escoger las partes que mejor suenan de distintas grabaciones de una misma interpretación) para poder interpretar algo con más riesgos, sabiendo que igual hay una parte que se puede aprovechar. A veces, uno piensa que la ha cagado y luego vuelve a la grabación y ve que es una muy buena parte.
 
 https://youtu.be/tJJRiKl1OqI?si=XV63ygepfxKO68Nz&t=1345
 
 ---
+
 Grabar todos los instrumentos, incluida la voz, de una canción con micros de contacto
 
 https://youtu.be/RQ4DaIUYkg4?si=QeNBYrkzaYl5o8hO&t=696
 
 ---
+
 Probar esta técnica de convolución
 
 https://youtu.be/o_mtxBpX_K4?si=xn9sfzRrKi74I1XA
 
 ---
+
 Usar synplant para generar sintentizadores FM a partir de samples
 
 https://soniccharge.com/synplant
 
 ---
+
 En "Fatiga" usar la técnica de Artur de preparar varios samples con ruidos, exagerando la frecuencia 440, y colocarlas en todas las zonas de un Sampler con probabilidad random, de forma que cada vez que toque una tecla suene un sample pero siempre afinado.
 
 ---
+
 Se me ocurre que se podría conseguir un efecto de delay grabando 3 veces una voz y desplazándolas el mismo intervalo.
 
 ¿Conseguiríamos un efecto distinto al delay clásico, porque son pistas distintas?
 
 ---
+
 En algún momento, usar una Gated Reverb
 
 https://youtu.be/TsiHtJbc-sE?si=mJJa7WI4riBW0L5Z&t=144
 
 ---
+
 Hacer un teclado que suene como el del vídeo. Es como un emulador de sonido de Commodore o de Nintendo en el que en cada nota se cambia la forma de la onda, dentro de las típicas del instrumento.
 
 https://youtu.be/7oBjTNOQ8mE?si=97JuElPBpC7AgS3y&t=516
 
 ---
+
 De este vídeo he sacado estas cosas interesantes:
 https://www.youtube.com/watch?v=i9F1cglqG3c
 
@@ -269,6 +335,7 @@ Web con replays (vuelven a grabar samples para evitar tener que pagar tantos roy
 https://www.scorccio.com/
 
 ---
+
 Probar estos plugins gratuitos
 
 https://www.youtube.com/watch?v=vt0mP3VT8-A
@@ -276,6 +343,7 @@ https://www.youtube.com/watch?v=vt0mP3VT8-A
 Especialmente el Instrument de Splice + Spitfire
 
 ---
+
 Usar arreglos de cuerda que anticipan el acorde que luego se va a dar, creando temporalmente una disonancia que luego se resuelve.
 
 La nota va de "incorrecta" a "correcta" sin hacer nada
@@ -284,16 +352,19 @@ https://www.patreon.com/posts/rob-moose-breaks-149538592
 Minuto 22:54
 
 ---
+
 Probar estas 2 técnicas de crear reverb pero con dispositivos que no están diseñados para ello
 
 https://www.youtube.com/watch?v=XQuP6KKScAs
 
 ---
+
 En lugar de tocar el bajo haciendo corcheas todo el tiempo, hacer que la primera nota de cada compás dure el doble
 
 https://youtu.be/EGMabOCvHfw?si=VRSeRYnBBWwzx6uU&t=1514
 
 ---
+
 Probar ChatDSP, un módulo de Ableton que le pasa un prompt a Claude y devuelve el código de un sinte con el que se puede tocar
 
 https://www.youtube.com/watch?v=vYfYqPCe0MU
