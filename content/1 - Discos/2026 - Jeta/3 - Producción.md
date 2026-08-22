@@ -368,3 +368,9 @@ https://youtu.be/EGMabOCvHfw?si=VRSeRYnBBWwzx6uU&t=1514
 Probar ChatDSP, un módulo de Ableton que le pasa un prompt a Claude y devuelve el código de un sinte con el que se puede tocar
 
 https://www.youtube.com/watch?v=vYfYqPCe0MU
+
+---
+
+Probar estos efectos con samples de batería
+
+https://www.youtube.com/watch?v=AxK73p-uv1U
