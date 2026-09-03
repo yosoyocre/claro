@@ -5,7 +5,11 @@ tags:
   -
 ---
 
-Como concepto de producción del disco podría establecer estas limitaciones:
+**La claqueta podría representar al capitalismo**.
+
+Las 3 primeras canciones están dentro del capitalismo. Las 3 últimas, fuera.
+
+Las canciones fuera del capitalismo podrían tener estas limitaciones:
 
 - Voz y guitarra grabadas a la vez con el móvil
 - Teclado principal grabado con el móvil
