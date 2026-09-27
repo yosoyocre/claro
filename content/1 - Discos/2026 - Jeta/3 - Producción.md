@@ -21,7 +21,7 @@ Las canciones fuera del capitalismo podrían tener estas limitaciones:
 
 Como el disco irá con las canciones ordenadas cronológicamente, podrían unirse los finales y comienzos. Igual podría estar interesante que la última canción también vaya enlazada con la primera, a modo de un bucle infinito del que no podemos escapar.
 
-También puedo hacer que las canciones cada vez tengan menos elementos de producción, como si el maximalismo representase al capitalismo y el minimalismo al descanso. La última debería ser la más sencilla. Quizás al final de la canción instrumental podría ir creciendo y haciéndose más disonante para que luego se enganche bien con la primera canción.
+También puedo hacer que las canciones cada vez tengan menos elementos de producción, como si el maximalismo representase al capitalismo y el minimalismo al descanso. La primera debería ser una canción de **hyperpop**. La última debería ser la más sencilla. Quizás al final de la canción instrumental podría ir creciendo y haciéndose más disonante para que luego se enganche bien con la primera canción.
 
 La del tercer espacio debería ya estar en unas coordenadas más de Sufjan Stevens. Como esta prueba que hice
 
